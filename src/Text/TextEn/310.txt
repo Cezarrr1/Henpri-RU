@@ -1,0 +1,1511 @@
+Man, we’re so used to saying stuff like ‘excuse me, bathroom please’ in here. Think we’ll say it on the outside?
+Oh, absolutely.
+Like being at the damn register going, ‘excuse me! Cola, please!’ And slamming that mother on the counter.
+Ahahaha!
+‘Excuse me! Jerk-off time, please!’
+You’re killing me, man.
+Dogshit humor.
+It’s fun to talk about just about anything now.
+Why do guys always like the dumbest jokes? Is that just a dude thing?
+It all just seems so funny, and I just can’t stop laughing.
+I’ll say.
+How can I not? It’s finally time to start making our game for real.
+Whoaaaaa!
+The three let out gasps of admiration when I show them our recovered data.
+The plot’s here... T-The character designs too! This really brings me back!
+This should buff up the parts you couldn’t remember.
+Damn. This was what, only a few months ago? Yeesh, it’s kinda hard to look at...
+That just shows how much you’ve improved.
+This code is way too spaghetti to even parse. Who the hell wrote this crap?
+You can take it slow reorganizing it.
+Our data is back.
+The crystallization of the first work we all got together to make.
+Now, we can finally start finishing it.
+Yeah.” “Y-Yeah!” “Sure can.
+The team is more than motivated.
+The data isn’t the only boon the warden gave us, either.
+Taeka, I finished talks about decorations on my side!
+Isumi, have you finished that list of prison workstations?
+Y-Yeah, I’ve done today’s quota!
+The warden placed us all on the Correctional Exhibition Event Planning Committee.
+Good. Let’s get going, though.
+It not only frees us from our regular jobs but lets us use our time as we wish after finishing our daily quotas as well.
+Wait, I’ve still got paperwork to do!
+We’ve also been told that we can use the computer room as much as we want as long as Sofurin is around.
+Are you sure, ma’am?
+As I said, this is your reward.
+You have my support in finishing that game of yours, young Shuichiro.
+The Hatae Trio are back in action too, and they’re giving a hundred and twenty percent.
+Chief, I drew up a decoration plan for the prison! Pretty swag-looking, huh?
+I’m in the process of redoing the budget with Mr. Kugitani, our local accountant. Heh... moments like these make me thankful to have worked at a bank.
+I’ll drag in Ozawa and set up the menu for the day, Chief! You don’t worry about a thing—use the time as you see fit. Do what you gotta do!
+Well, damn... Thanks, all of you. It’s in your hands.
+Because of all that, we’ve got plenty of time to spend developing our game.
+Hey, Shuichiro, what do you think? I wanted to try drawing the protag’s sprite again.
+Oh, you gave him an action pose? He looks really good!
+Okay, time to make it clean, then... Ugh, this is way too filthily put together to get the lineart out... Yeah, gonna have to redraw this.
+Learning in real time that I can’t code on memory alone. When I tried to stick the voice-saving function into the demo data, it hit me with an error.
+What’ll you do, then?
+Make sure it gets in the final version, obviously. The audience is chomping at the bit to hear my sister’s voice whenever, wherever. Hell, I’ll make it so you can set a clip as your ringtone.
+Ugh, is this what my old recordings were like? Talk about phoning it in...
+God, no, I can’t listen to this!
+Well, we did kind of trick you into recording all that.
+No way, Sis, your acting was phenomenal! You moved me to tears—I’m crying now just thinking about it!
+Oh, crap. R-Reading this over, I totally forgot to follow up on this foreshadowing from the demo.
+It wasn’t exactly the moving type of scene...
+We didn’t have the data, so it can’t be helped.
+Oh, and I totally forgot how I got caught up in the moment and gave this character a catchphrase. S-Sorry, I haven’t been using it at all...
+Don’t worry about it. We’ll sprinkle it in and make it work.
+I’m m-most shocked at myself for forgetting it...
+With the help of our lost demo—the missing piece—our stalled work starts moving again smoothly.
+Organizing data is pretty tough too.
+After merging it with all the things we’ve been making on the side, I start to see the game’s full shape with more clarity.
+Shuichiro, don’t delete the old stuff. Organize ’em by dates so we don’t get any bad rollbacks.
+- System: Fave voices, config (all), debug
+I can make itemized lists of the work that remains.
+A yukata outfit? Since when do we need all these extra assets?
+- Portraits: variant clothing (1x per chara)
+W-Well, we did put in a date scene. Eheh, heh heh...
+- Scenario: Sex scenes & climax (~300KB)
+And lots of checking and revising after that. Voice recording too.
+We’re still a ways away from the game’s full completion.
+Hey, we still don’t have a name for our protagonist, right?
+I mean, he’s still Protagonist (temp).
+Oh yeah, we’d left that for later.
+Can we give him one already? It’s a little annoying to assign him variables with no unique name.
+Let me look at his profile.
+Okay... The protagonist is a young man who goes to a local school. Angry and resentful, he has the dark desire to control and fuck all the women of the world.
+Good question. I hope we can come up with something cool.
+Then, he meets Mating Press Man, one able to turn his fetishistic desires into superpowers through the energy of the Lustveins arising from the cataclysmic impact of Hailey’s Cumbucket...
+I-I think we want something that expresses what the work is about.
+The protagonist’s love of upskirts grants him the power to conjure gusts of wind, but after seeing Mating Press Man rape his mother, he realizes that all women have families that love them. He swears to protect the city as a heroic pervert.
+The theme of Pervy ESP Story (temp) is what Shuichiro wants to express to the world, right?
+No matter how many times I read this story, it never gets less weird to me.
+You wanted to make a real perv into the protagonist and let the world know they’re out there, right? In that case... hmm.
+Uh, um!
+What’s up, Isumi?
+How about Shuhei Uchiro?
+Like... you’re an exhibitionist...
+What do you mean...?
+Shuhei Uchiro, Shu—? Oh!
+What...?!
+Yes, I see.
+What’re they talking about... Sofurin?
+Eh, I don’t know, either...
+Try saying the name.
+Shuhei Uchiro.
+Say it five times fast. ‘Shuhei Uchiro.’
+Hey... Shuichiro. It’s not that complicated.
+We’re taking off the ‘Minato’, but you’re an exhibitionist, right? You love to take things off.
+Shuhei Uchiro... ‘Shuichiro’.
+G-Get it...?
+The name is an anagram.
+......
+I will be the protagonist.
+I am in this world.
+Man...
+Oh, he’s blushing for real.
+That look you’ve got is just too cute. No fair.
+Eheh...
+Huh, this is starting to feel kind of like an anime harem.
+Heh. My dear old brother’s just too cute, I tell you.
+......
+Going over to that side too, are you...?
+I-I’ve been thinking about this for a while... The Chief talking about names g-got the ball rolling.
+Oh, that’s why you looked interested, huh?
+That’s Kane for you, a real hero of cooking up fake names.
+Eheh, eheh, eheh...
+It does sound nice and has a good meaning to it. I think it’s not a half-bad name.
+Yeah, let’s go with this!
+I’m really glad I’ll be able to leave my mark like this.
+At the same time, it feels incredible to have a secret I share with only the game dev team.
+Oh, Shuichiro, there’s one more thing I’ve got in mind. Remember how you talked about how creatives’ll always slack if they don’t have a deadline?
+Yeah, that’s what my sister told me.
+Here’s another thing I heard from that bigwig: there’s these two big things called Parkinson’s law and student syndrome, right?
+Student... syndrome?
+Put really simply, people will only really apply themselves around the last minute when they’ve got work to do.
+The last minute?
+So to avoid that, you want to always give your creators a fake schedule.
+You want to lie?
+Yeah, but it’s not a bad lie! It’s a good lie, one that makes everyone happy.
+A good... lie.
+Because if you don’t, the deadline will just drag and drag and you’ll never get the game done! Is what I was told.
+It’ll never get done?
+Basically, they never meet deadlines anyway, so they deserve to get lied to about them!
+......!
+That’s what she told me.
+The person that told her that must have had a really rough time in the past...
+So if we have unlimited time, w-we’ll just keep on blowing it off, huh...?
+I don’t want to lie, though.
+Still, I can’t deny that we’ll just keep spinning our wheels, so how about we make a loose deadline?
+Right? So, you’re supposed to put in some ideas for what to feature at the exhibition, right?
+Yeah, I am the committee head.
+I’ve had a lot of meetings with the warden about the event.
+Our correctional officers and the SST are currently in the process of reorganizing their ranks and are unable to spare many hands for the exhibition.
+Right.
+These exceptional circumstances mean that the success of the Correctional Exhibition falls upon the both of us.
+You, young Shuichiro, are the most important part of this project.
+Wait, you’re not honestly thinking of...?
+Oh, we’ll take out the sex scenes, Sis. All the voice acting too. Oh, and while we’re at it, the text!
+Can you... really call that a game, then?
+We just want a deadline as a stimulant, you know, a shot in the arm, but there’s probably a lot of folks who’ll be interested.
+T-Thinking that people’ll see it is really encouraging... W-We might be able to sprint to the end!
+Wait, maybe we could...
+Yeah. How ’bout we sneak it into the exhibition?
+......!
+What a brilliant idea.
+Let’s do it! We’ve gotta!
+I feel the blazing fire returning to my heart.
+After that, I sink myself entirely into my work.
+There’s a lot of work even a producer can do.
+Data management, illustration request sheet creation, game story checking, system specifications, script creation for voice recording... All sorts of things.
+Putting everything onto the progress chart and staying on top of it is all part of my job.
+......!
+Energy surges through my body.
+I don’t get tired, no matter how much I work.
+I can keep working on this game forever.
+Rahhhhhhh!
+With this motivation, I’m invincible.
+Rahhhhhhh!
+Rahhhhhhh!
+Rahhhhhhh!
+Hey, Shuichiro, about the food we’re gonna have at the event...
+Rahhhhhhh!
+Rahhhhhhh!
+Nothin’ like a nice bath after a day in the pit, huh, Minato?!
+Rahhhhhhh!
+Rahhhhhhh!
+Eeeeeeeeeeep!
+Rahhhhhhh!
+......
+Rahhhhhhh!
+Quiet down, Number 0720!
+Listen, working this hard is great and all, but...
+Rahhhhhhh!
+Aren’t you, like... a little banged up?
+Haa, haa...
+On top of that, you’re going to burst my eardrums...
+Sis, I’ve got some super-quality handmade earplugs...!
+L-Looks like he’s always working even when eating and bathing.
+Seems he’s barely slept this week, either.
+Maybe the deadline was too strong a shot in the arm?
+W-We’ve got a scary drug problem on our hands.
+Wasn’t that the thing we just dealt with?
+Rahhhhhhh!
+What’s with your cheek too? It’s super swollen...
+A really bad cavity, apparently.
+Huh? Didn’t Agatsuma tear it out?
+She got the wrong tooth. It was the one next to it.
+Terrible, all of you.
+That swelling looks like the kind you can’t lie down with.
+Is he at the end of his rope or...?
+He says not being able to sleep has helped him make a lot of progress on work, though.
+The guy’s a berserker...
+......
+Hah.
+That’s a terrifying smile.
+Like someone who can only feel alive in the middle of battle.
+Yeah, he IS the kinda guy to do anything to get what he wants.
+He was an exhibitionist to begin with, yeah.
+I guess this is what happens when all that madness is channeled into game dev.
+Er. Hey. Isn’t there something someone should say about this?
+Y-Yeah. He’s super cool!
+The way he’s fearlessly living out his dream... Incredible.
+I’d expect nothin’ less from my brother.
+Oh. Right, okay. I have to be the adult here... Here goes.
+Hey, Minato!
+Hn?
+We’re going!
+Whuh we woin?
+Listen to you, you can’t even talk anymore. We’re going to the dentist!
+No wanna.
+The dentist is only here for a day! She won’t be back until next month!
+I... hate dentists.
+I can’t stand that whirring sound much, myself.
+Who cares? You’ve got to get your ass to the dentist—look how swollen you are!
+Huh, seriously? I love the sound of teeth getting drilled, though.
+Listen, you, we’re GOING!
+Real twisted...
+But I gotta woooooork!
+Why you...! You’re coming with me whether you like it or not!
+......
+Oh, he quieted down.
+Yeah, once she grabbed him by the collar.
+Damn. Strong.
+......
+If that cavity bacteria hits your brain, it’s going to wreck your mind!
+Yeah, she was really big into kendo back then.
+......
+We’re hurrying there before the dentist leaves!
+He’s a cat.
+Yeah, that’s a cat.
+Typical cat behavior.
+(END)
+......
+Look at the Calabash Bitch, sitting in her fancy garden, drinking some tea like royalty.
+She can barely do her job. How long’s she planning on pretending to be queen bee?
+......
+L-Let’s get going!
+......
+Natsumi... are you watching over Captain Yugao again?
+Mashiro...
+You could just talk to her if you’re that worried.
+I... I can’t. I’m just a useless mutt. I don’t have any right to talk to her.
+You know just as well as I do how much she hates the useless, Mashiro.
+No surprise that she’s ignoring me, then. I can’t complain.
+Natsumi...
+......
+She helped Minato when Captain Agatsuma was after him... even though she had to have hated him for everything he’d done to her.
+And her staying away from the SST—was that to keep us safe? In good standing?
+Ms. Hazuki, please... Tell me the answer like you always do...
+Just what is it that’s on your mind...?
+Slrrrp.
+Phew.
+......
+My tooth... is killing me.
+This cavity... really, really hurts.
+My teeth hurt.
+So even warm tea makes you flare up? Heh. A worthy cavity.
+I am in dental agony.
+I’ve been beset by an agony so great that I can’t even lie down and sleep.
+I really don’t want to take out my wisdom tooth.
+My wisdom tooth grew sideways, so they’ll have to cut into my flesh to remove it.
+But I... really don’t have a choice.
+Still, leaving a wisdom tooth with a cavity as-is will only lead to ruin.
+God...
+So, I’ve come to the rehabilitation center.
+Hazuki Yugao! Hazuki Yugaooo! Come on in!
+Once a month, a dentist from the mainland comes to the prison. Today is that day.
+She works as a children’s dentist, leaving her with an attitude towards her patients I take issue with, but beggars can’t be choosers.
+Don’t cut my teeth! Don’t cut my teeeeeeeeeeeth!
+Some kid is screaming on the other side beyond the curtain.
+Gyaaahhhhhhhhh get outta my mouuuuuuuth!
+Gaaaaaaaaaaaaaaaaaaaaaaaa
+You’re kidding.
+Absolutely unsightly.
+No one told me it would be this painful.
+I am Hazuki Yugao. They used to call me Queen of the Prison.
+Wonder if they’ll let me leave.
+A queen does not let out undignified screams from a mere dentist’s drill. She must not.
+Sorry for the wait! It might be a little scary, but are you ready?
+Absolutely. Do you even know who I am?
+Does this fool honestly think I’m ready?
+Nope, no idea. Who are you?
+Hah. What are those eyes of yours for? Aesthetics?
+I am Hazuki Yugao. My friends fear me and my enemies fear me more. Remember that, little lady.
+This is why I can’t stand fools.
+You’re right about that. This is a pretty fearsome wisdom tooth!
+Obviously, I want to get up and leave as soon as possible. Why wouldn’t I?
+Okay, could you sign your name here?
+Can’t you hurry up and finish this already?
+And what’s this?
+I’ve got to get back to weeding the pond. I’m almost done.
+It’s a waiver!
+A what, now?
+Well, baaasically, it says you agree that the dentist—that’s me—can’t be held accountable for any complications from the surgery, up to and including death!
+......
+All right, let’s get this surgery going! Can you open wide and say ahhh for me?
+Er. Say.
+There’s gonna be a biblical flood of blood in your mouth, but you won’t need to worry about it!
+You have blood transfusions, right? I have a rather rare blood type. Have you contacted the Red Cross?
+Haha, don’t worry about any of that.
+Excuse me? Are you even taking this seriously?
+You’ll be fine—I hit you with the anesthesia a bit ago, so it should start working about now!
+Explain the operation, right now! What happened to informed consent!?
+You have the professional obligation to—
+Okay, here comes the airplane!
+GAHHHHHHH!
+Hm?” “Hm?
+I step out of the dentist’s office and immediately run into Yugao.
+Well, if it isn’t the last person I wanted to see.
+So you were the boy screaming next to me like a beaten newborn.
+Looks like the lady howling next to me was Yugao.
+Heh. You look like you’ve tasted more pain than when I made a mockery of your pathetic joints.
+It didn’t hurt or anything. Really.
+Hahaha, you could have fooled me with those delightful screams of yours.
+You sounded like you were on death’s door too.
+What, hurt, pain, me? Not at all.
+Could have fooled me with those delightful howls of yours.
+We quietly glare at each other.
+......
+......
+Then, I leave.
+Why did you follow me?
+I could ask you the same. What are you doing here?
+I’ve got gardening to do, so go find another pond to jump into.
+I’ve got training to do, so go find some other rocks to play with.
+Come to think of it, Yugao is the owner of this garden.
+So, you’re... planting flowers?
+I’m building a pond, to be more exact. The flowers are like a side product.
+Since when?
+Since this place was nothing but grass and weeds.
+This spot had been just as much of a wasteland of thin vines and dull grass before, and she turned it around.
+She really is planting flowers.
+......
+I remember something my sister told me.
+Back when I picked a pretty flower and gave it to her.
+I hate you.
+What a coincidence. The feeling’s mutual.
+I don’t think I can forgive you for what you did to Isumi.
+Who could have the gall to blame me for exterminating a little sewer rat?
+But Isumi wasn’t out for revenge. She just wanted a place to belong.
+And she more or less got it.
+So, I’ll thank you.
+Thanks for covering for me that one time.
+When I got found by Sister Julia, Yugao had clearly seen me fall out of the duct route but claimed ignorance when asked.
+If she had actually ratted me out, there’s no telling what would have become of me and Sofurin.
+......
+I don’t know why she did it, but she really came through for me.
+The flowers. You...
+I?
+Nothing.
+Yugao stands, weed in hand.
+Then, she glares at me with her usual smug, cold look.
+I’ll give you a heese o ahaice.
+Huh? What?
+......
+......
+Why has her cheek swollen so suddenly? I think to myself.
+Wa’h ou’ o’at ’ag.
+I have no idea what she just said, but I bow my head.
+Hmph.
+......
+Gh.
+Gahhhhhhhhhh!
+Oh. The anesthesia wore off.
+Ah...
+At least go give her a painkiller or two, Natsumi.
+Warden Mizushiro’s lessons have gotten a lot more involved lately.
+To review: one’s criminality coefficient, or ‘score,’ is a numeral expression of one’s relation to crime.
+Since I have to write an explanation of the criminality coefficient for the exhibition’s pamphlets, I’m eagerly taking notes.
+Now, the reason no one has a fully static score?
+One’s criminality coefficient is affected by their environment.
+Precisely. I see you’ve been paying attention.
+However, if there were people for whom this number would neither change nor decrease, what would that mean?
+We could confirm that innate types exist.
+Indeed, we will be able to.
+After a deep nod, she adjusts her glasses.
+It may sound surprising, but part of the reason the Ministry of Justice accepted the use of this number was to keep me under surveillance.
+The warden would sometimes mix chats into her lessons, clueing me into all sorts of things.
+What do you mean?
+This is an experimental facility. One would imagine checks and balances are needed, yes? By keeping the facility’s coefficient totals visible, they
+What Warden Mizushiro talks about is always stimulating and interesting.
+I couldn’t write this in particular on the pamphlet, though, I think to myself.
+Now, the criminality coefficient system has another strength. Can you tell me what it is?
+It will make Japan’s potential crime rate visible and keep the prison population in line.
+Precisely.
+She nods, looking very satisfied.
+That is why the exhibition is of such dire importance.
+If all prisons enact visible score systems, everyone will be able to comprehend Japan’s level of safety.
+Comprehension will lead to interest. Interest will lead to budget hikes, leading to more talented personnel.
+What is most important is for we the people, the citizens of this nation, to seek a safer world... and I am certain my activism will become a touchstone for the country’s future.
+To that end, young Shuichiro... let us both do our utmost.
+Yes, ma’am.
+It feels like her smile is full of kindness.
+Have you organized concrete plans for what will be featured?
+Not yet, ma’am.
+I keep the game in the corner of my mind as I answer.
+Though the primary goal of the exhibition is making the prison more known, we cannot call it a resounding success if visitors of all ages cannot enjoy it.
+To show off the fruits of Tulip Prison’s labor far and wide, the exhibition has to be both flashy and fun.
+We have to be discriminating about what the event consists of.
+Your power of imagination has moments where it far surpasses any other’s... and I expect great things, young Shuichiro.
+I want to meet her great expectations.
+Anyone got any good ideas?
+I decide to discuss it with the rest of Team 69.
+Food stalls are a breeze if you’ve got the food. It’s not Hatae’s game, but we know some people. Could grab a few of ’em from in here and have ’em slap some stalls together, easy.
+Yakuza really come through in a pinch, huh?
+Food is huge. We can make up a ‘Tulip Prison signature dish’ for marketing. From there, we just need to compare our budget and supply prices, then see what certifications people’ll need...
+Then, Isumi timidly raises her hand.
+Er, how about a, um, coal mine experience tour?
+The prison boasts an unusually deep coal mine.
+There’s no way we can’t take advantage of that.
+Heyyy, now we’re talking! Like, we can take the bored kids around while the adults are reading over tour info. That kinda stuff.
+The big machines are pretty cool too. I’d say this is a strong maybe, leaning towards hell yes.
+Yeah, this sounds fun!
+Kids love holes and tunnels, and they love big machines even more.
+I-In that case, we can have the guards guide people around? And stuff?
+Now that’s a good idea. How about Agatsuma? She probably knows the underground like the back of her hand by now.
+Oh, you’re lookin’ positively dastardly, Taeka.
+That’s a pretty good idea.
+If we’re going to have people act as guides, we’ll need a script for them to read.
+We decide to immediately head for the library and research the coal mine.
+T-There was a book about the coal mine on the shelf with all the books about Minato-jima history!
+It’s pretty handy to have Isumi—the master of the library—with us.
+Er... t-the extracted raw coal is taken from the tunnel’s edge by conveyor belt to the coal pocket...
+Then it’s taken to the coal sortin’ room and... Ahh, I see, the usable coal’s lighter than water, so they see what floats.
+The machine operates in ten-minute bouts, and the coal is moved in containers by jig loaders...
+The non-coal rocks are crushed and pushed out as debris... Hey, isn’t this the hole in the sea you two saw earlier?
+Noah shows us the page. It has photos on it.
+The sharp things do look familiar.
+It looks like the blades finely crush the rocks, slightly lowering the strain from the constant output of debris.
+So if we somehow forced ourselves into there, we might have been able to make it to the coal pocket.
+Y-You would’ve made it in pieces.
+She has a point. You’d need the blades to be stopped, and even then you’d have to squeeze your way through.
+There’s a lot of things like this in the prison. Like, they tore down the underground commercial area and replaced it with a big conveyor belt.
+This’d make for good hand-out material if we copied it. Isumi, write that down.
+Real writin’...
+Let’s write up a quick proposal.
+Let’s make the design look real good too, so there’s no way Mizushiro turns it down. I’m thinkin’ coal miners and a mine cart with...
+They get to work. I don’t even need to give the signal.
+Kane, can you think of the marketing copy? We really want something that sounds good.
+They get to work on our goal as if all three of them are one single being.
+Er... This tour is one both entertaining and educational for children, exploring the coal mine, a necessary part of our—
+It’s like they’re all sharing a single consciousness.
+Incredible to see, really.
+There’s no way she could turn this down!
+I realize that doing something together with the group, even if it’s not game dev, is really fun.
+A big prison event, huh? Well, if you aren’t Mr. Fancy Pants now, large and in charge!
+Dr. Higuchi has her usual smile on as she jots notes into her computer.
+And there you go! Good job being so patient today!
+She notes down my heart rate in her file as usual.
+That’s something the warden wants you to do, isn’t it?
+Oh-hoh! Been made privy to top-secret prison information too?
+She gives me a playful smack on the forehead with the back of her hand as she pulls the devices off of me.
+It’s give and take. She’s accepted a bunch of my requests, so I’m returning the favor. We made an agreement way back when I first got here.
+Do you two get along well?
+Cordially, I suppose? We do talk a little if we run into each other.
+You know, she’s a surprisingly good person.
+Ahaha! Surprisingly? Well, she’s a prison warden—few people would expect her to be a bad person!
+She makes good food too.
+It doesn’t sound too hard to get on your good person list.
+She sits back down in her regular spot, creaking her chair.
+I was hoping you could do personality tests for the event.
+Personality tests, huh? Well, I am a psychologist, so I think I can get the sheets ready by the day of the exhibition. You just need me to make the results sound really official and scientific, right?
+Dr. Higuchi is quick on the uptake.
+Looks like I can get a lot ready for the event.
+Personality tests, huh...? There’s a bunch that lean on the Barnum effect, so we’re going to want some real, psychology-based stuff. We don’t want woo-woo in Tulip Prison, after all.
+I think woo-woo would be fine.
+It really wouldn’t.
+I can diagnose personality, myself.
+I point to Dr. Higuchi.
+Good person.
+Ahaha! I have to wonder about that, but I do hope it’s the case. Thanks, Shuichiro.
+I’m not sure why, but she complimented me.
+I always feel happier when she compliments me.
+Unfortunately, though, your conclusion’s off.
+The happiness doesn’t last long.
+You’re a good person, Dr. Higuchi.
+That’s a really lopsided way of thinking, Shuichiro. Someone you see as a good person, well, may not seem like that at all to others.
+I can’t really accept it.
+Who wouldn’t see you as a good person, then?
+The... hospital I worked at before, I suppose. My coworkers there.
+Her tone is confessional.
+I’m not sure if I can ask further.
+Can I ask why you became a prison doctor?
+I am curious, so I ask.
+......
+She puts her hand in her pocket and stands up.
+Then, the mechanical sound of a phone ringing fills the air.
+Pick up, Shuichiro. It’s for you.
+Huh?
+I pick it up and put the receiver to my ear as instructed.
+Well, hello there! Eriko Higuchi speaking. I’m calling you from the far-off past!
+I look to Dr. Higuchi.
+She waves at me with a smile as if nothing’s going on.
+I’m eighteen and full of hope! I’ve got stamina, my colds heal quickly, I don’t have to worry about my breast fat going to my belly yet, and I just got into med school! The future is bright!
+It’s honestly impressive—hearing her on the phone sounds like she’s whispering into my ear.
+It’s you from twenty years ago.
+No. It’s me from fourteen years ago.
+I was wrong.
+It’s you from... fourteen years ago.
+I’m not a doctor yet. Still, ever since that really nice doctor helped me, I’ve lived my life with the sole goal of becoming one! I’m so happy to be in med school, and I’m going to work my pants off!
+She always wanted to become a doctor, someone who helped a bunch of people.
+Feels like it was forever ago that she told me that story.
+Hey again! It’s twenty-year-old Eriko! I’ve made some great friends, and I enjoy my studies! College rules! There’s one problem, though: med school is
+I’ve studied a bunch, but I’m kind of out of money. I’ve got my practical training through the morning, so I can’t work... Snff. I’ll probably have to drop out if I don’t think of something.
+So what’ll you do?
+There’s only one thing to do: take out a student loan! But it comes with strings attached? Apparently, I have to work at the university hospital or they won’t lend me the cash.
+But, well, I’ll be a doctor no matter where I work! I signed all the paperwork in the blink of an eye!
+Okay, now I’m twenty-four! Studied my ass off, got my medical license, and now I’m working at a hospital! I’ve got a bright future ahead of me, and I’ll work my pants off to achieve my dreams!
+She stops for a moment.
+This is Eriko Higuchi, age twenty-six. My medical residency is done, and now I’m a real doctor.
+I keep the receiver to my ear and don’t look at her.
+I imagined a glorious life. Reality was different. For starters, the big virus a few years back really thinned out our nursing staff, and the hospital’s deep in the red. It was a really rough time.
+But I’m twenty-six! I’m still young. I can work all night! I’ll be fine! Bring on the all-nighters! I’ll do my best to help as many patients as I can!
+But, well, there’s usually a set price to how much a day in the hospital costs. A couple hundred thousand yen per day for, say, appendicitis surgery.
+Did you know that it gets cheaper the longer you’re in the hospital?
+I did not.
+Then, a bigwig had an idea. Of course, he thought, let’s have only the wealthy patients transfer to affiliated hospitals, resetting their stay periods!
+They squeezed money out of patients with long stays by bouncing them between hospital A and hospital B.
+Having the same patients coming in and out means extra work. Going over capacity makes it even worse. Things are getting bad, and a lot of the other doctors and nurses are quitting.
+Not to mention that the only ones who could 
+Doctor Higuchi, age twenty-seven. I’ve been insolent enough to complain, repeatedly, asking the hospital to stop discriminating between patients. I don’t realize how naïve I’m being.
+It was my dream to help the sick. I wanted a society where anyone could live healthily and happily. I wanted to be like the doctor who helped me so long ago.
+So I thought that if I worked really hard, everyone would see things my way eventually. I pulled all-nighters more days than not, chugging energy drinks, doing everything I could.
+By the way, I worked in the hematology and oncology department. I had a little girl as a patient there. Nice kid. She was really fond of me, the new doctor on staff.
+She had acute leukemia, and treatment was not easy.
+That was when my boss, a professor, suggested we use a new drug on her. It was very expensive, and I was against it. The girl’s family didn’t have that much money to their name. However...
+You ended up using it?
+They forced the issue at her case conference. I found this out later, but the professor was in deep with the pharmaceutical company. They were going to have it used no matter what.
+It turns out that the drug was based on a substance with strong side effects and a whole lot of negative clinical-trial data.
+The girl fought through, saying she was okay. She said that she could get through all the pain as long as I said she’d get better.
+She stalls for a moment.
+Then, after all that suffering, the girl... passed away.
+I hear her voice. Not through the phone, but through the air.
+Her family didn’t blame me for it. In fact, they thanked me. They thanked me for being there for her. They said they didn’t regret selling their house to pay for the treatment.
+People passing away wasn’t a rarity in my ward. No matter how hard things were, I knew I could get over them eventually. How could I not? I’m a strong person.
+Her kind voice, the look in her eyes, her smile... I’d eventually forget. Or, so I thought.
+She did not.
+At some point, I stopped being able to sleep. I couldn’t get food down, started to feel dizzy whenever I stood up, felt sluggish all the time, and got a fever that wouldn’t go away...
+Then, around twenty-eight, I just... had a panic attack. Collapsed right down to the ground.
+I figure she fell into clinical depression.
+My sister told me that happens to people who take their jobs really seriously.
+I had to work, but I couldn’t move. My patients needed me, but I just felt nauseous. I tried to leave the house and I couldn’t stop shaking. For the first time in my life, everything
+Then, the phone rang. It was my mother. I apologized to her through tears. She spent all that money on me, and this is how I turned out.
+You know what said to me? She told me to run. If people won’t listen to a word you say, then you’ve got to run to protect yourself.
+Hey, that’s what you said before.
+A small smile from her.
+So Eriko Higuchi, age twenty-eight, ran from everything. Ran from her patients. Ran from the hospital she owed her career to. Ran from it all. Everything.
+She raises both hands as if throwing everything away.
+The problems came after, though. Word like this travels fast, and I couldn’t get a job in even the smallest clinics. I was in a really big hospital run by a huge academic clique, after all.
+She murmurs that starting your own doctor’s office costs a lot of money too.
+That winter, I got a call from the very doctor that put me on this path. He recommended a medical position in a certain correctional precinct.
+And that’s how she got to the prison.
+I went in for an interview, and I asked the warden to allow everyone into my office equally, guard and prisoner alike. A real handful, wouldn’t you say?
+She accepted my conditions, and three years later... Well, here I am, Eriko Higuchi, age thirty-two. Tulip Prison’s doctor.
+And that’s why, well... I can’t go back.
+She says after hanging up.
+I ran away with my mom from the country town we grew up in, so I don’t really have a hometown. Can’t go back to Japan proper, either. Oh, don’t get the wrong idea, though. I do enjoy my job.
+She pushes her arms out in front of her and looks down at her nails.
+Even if you do have that date with destiny... no one knows if you’ll be able to stick it out or not.
+I remember her saying I might have a fateful moment waiting for me.
+I remember her telling that to me directly.
+But there’s no guarantee your dreams will come true even if you do have that moment.
+And there’s no guarantee that your dream coming true will make you happy, either.
+That’s... part of what makes life so hard, huh?
+I’ve never seen Dr. Higuchi like this.
+I feel strongly that this is how she truly feels.
+You’re just like me.
+Hm?
+I don’t have anywhere to go home to, either. I do have someone waiting for me, though.
+So you and I... we’re the same, Doctor.
+I say what’s on my mind.
+Because I’m really happy we have this in common.
+Ahahaha! You know, you might be right about that! We’re surprisingly similar, huh, Shuichiro?
+She ruffles my nonexistent hair with a laugh.
+I love it when she does this.
+Thanks for comforting me. And as your reward... Where’s the candy?
+She holds out both fists like she always does.
+Is this a request from the warden too?
+Maybe it is, maybe it isn’t. It’s a bigger secret than the heart rate stuff, so my lips are sealed.
+I get it right. It’s apple-flavored.
+(END)
+After that, our days are packed with both game development and exhibition preparation.
+This is where we always had printing done, right? If you’ve got the data to work with, when can you get it all printed out by?
+Printing out the reference data we’ll be plastering all over the exhibition, as well as the pamphlets we’ll be handing out, is the most important thing right now.
+We’ve got a laundry list of reservations already, so we’re gonna need a clean week at the least.
+Can you jump us ahead a bit? I want it done three days before the event. I’ll even help by supervising the DTP data.
+If you don’t want to do any color correction. Well, I guess if you make sure you get back to us the same day we send it over to check, we might be able to make a few tweaks...
+Thanks. I’ll pass it on.
+Organizing the schedules and contacting the various work rooms is my job.
+A... layout map of the prison? And it’s labeled with numbers?
+I put reference numbers on the prison facilities. Havin’ detailed explanations makes it more fun for the visitors, right? The numbers are connected to this printout here.
+We also have to prepare a path for tours of the prison work rooms—the residents of the neighboring islands are looking forward to that.
+We’re gonna need the numbers to keep track once all the stalls are up and running. Oh, and no prisoners will be allowed out of their cells during the event, so you don’t need to worry about that.
+Ah, then we won’t need to split up our forces for security... and I’ll be able to lend you our people.
+I’ll have the folks in the stall business teach ’em how to cook in exchange. Seems like there’s a lotta ins and outs and particulars to it.
+Understood. Fushimigawa, can you check to see who’s off shift?
+We also need to make a special shift schedule for the day.
+We have to do some moving of prison furniture and supplies too, and managing that is similarly important.
+We usually have the library be the rest area for the event. Can you bring in chairs from the rehabilitation center?
+Oh, er, we’re going to put all the chairs in an empty classroom at first, p-putting stickers under them and managing them like that.
+Since we’re on the event planning committee, all of the information about the exhibition gathers around us.
+That also means that we get to deal with all the problems too.
+Number 0720! Is Number 0720 here?!
+Sometimes guards will come to bug me even when I’m busy with game dev.
+He’s become the guy.
+Number 0858 has something to say about the ferry meant to carry in our guests!
+Sure has.
+I-I totally forgot that the SS Asagao was malfunctioning! I-It was just an honest mistake, though! It’s not my fault!
+We can’t get anyone to the prison without that ship, and it’s all her fault!
+Eep?!
+Don’t worry. We’ve already contacted a local tour conductor and have secured a small ferry.
+It’s strange having even the guards coming to me with problems to solve.
+Oh, you did!? Phew...! Thank—er, ahem. That is... Good work.
+Seeing them start to thank me before remembering I’m a prisoner is always fun to watch.
+You okay?
+Er, ah... I-I’m not thanking you! Y-You took my job... a-and it’s just because you’re younger too...
+What say we put all that behind us and just work together?
+......
+The exhibition won’t succeed unless everyone works together.
+I have to prepare a few other killer events.
+You would make a public display of the actual rehabilitation program?
+We’ll pick out trustworthy prisoners on our own, prizing safety above all else.
+I see... having actual prisoners present would be a touch thrilling, so if we established proper barriers and ran it like a kindergarten tour...
+We need to make this exhibition more appealing than all the ones before it.
+This is the libido management program where inmates learn methods of controlling their lusts.
+So we need to actively bring in new elements to get people talking.
+Today, we’ll be training by replacing sexual words with non-sexual words.
+WORD GAME TIME, MOTHERFUCKERS!
+Plap, plap! MILF!
+Plap, plap! Mother!
+Anything that sounds eye-catching gets a test run.
+Plap, plap! Plumped-up cumdumpster!
+Plap, plap! Pregnant woman!
+Do they have to say ‘plap, plap’?
+I don’t dislike doing new things.
+Seriously.
+So I’m pretty active when it comes to making proposals too.
+Decorations are key when welcoming a crowd in.
+Hey, Minato, this sign look about right?!
+Perfect job. Putting those old carpentry skills to work, huh?
+The coal miners of Bear Team are taking the lead in helping us out there.
+How’s the coal mine tour looking?
+The crazy diamond lady’s gonna be lookin’ after the kids. Said something about kids being national treasures.
+Spoken like a true jewel thief.
+We’re going to to cordon off the no-go zones with tape too. Anyone gets lost down there, it’s us who have to dig up the skeleton.
+Big thanks, bros.
+No need to thank us! I said we’d help, didn’t I? All right, boys, let’s get the next sign done, pronto!
+If there’s one thing that concerns me, it’s Amatsu.
+C’mon, Amatsu, I’m naked. You love it when I’m naked.
+I call out to him, but he won’t respond.
+I get really erect, too, just to test it out, but that doesn’t work either.
+I wonder if he’s still down?
+He looks pretty up to me. Like, way up.
+The gang’s all here.
+Oh... w-whoa...
+Pretty impressive, but... not somethin’ to show off all the time, yeah?
+......
+Amatsu has gotten mad at me in the past.
+Still, I know him and he knows me. I figure we can reach an understanding.
+While I am bafflingly busy, prepping for the event is very fun.
+It feels like a school culture festival or something.
+Sure is. Those were fun as hell, man.
+I would always get ignored until right before the festival, so this is a really... fresh experience.
+......
+It’s so fun!
+I just feel so... satisfied.
+Part of the reason I feel so excited about this work is the knowledge that I have the reward of game dev waiting for me when it’s all over.
+Even when work is done and we’re free, we can’t get them to open the computer room for us unless Sofurin is around.
+Ahh, these bags, they just won’t go away cleanly... This new concealer’s no good, either. Maybe the orange is a bit too thick...
+Gyahhhhhhhhhhhhhhhh!
+I was looking for you.
+So I go get her without hesitation.
+I keep telling you not to pop out of nowhere on me!
+I would violate any law to find you.
+You don’t need your sentence any longer. And don’t scare me like that. You’ll make me twitch like crazy.
+Sometimes I’ll run into Sofurin when she’s fixing her makeup.
+You’re goofing off.
+No I’m not. I’ve been ordered to guide the guests and have been explicitly told that maintaining my appearance is part of the job!
+Those times, she always has this little bag with her.
+......
+Just hold on, all right? I’m almost done. I just need to apply this.
+What’s in this bag? Looks like it can’t carry anything bigger than a rat.
+There’s nothing special in it.
+But I’m curious, you know? About this rat-sized bag.
+It’s a normal bag.
+But it looks like you could fit a rat in it.
+Stop saying rat! This is a goddamn name-brand bag!
+She splurged her bonus on it last year, apparently.
+It’s basically winter weather here all year round, right? So I need calm colors, stuff that makes me look my age but still with a good bit of cuteness—it’s tough!
+Wow, that’s so interesting.
+You’re a master of pissing me off, you know that?
+Sofurin’s really nice, so she shows me what’s inside.
+I told you, it’s just normal stuff. I’ve just got, you know, my wallet and tablet in here...
+But what about the rat?
+Quit with the rat business. Anyway, I’ve got perfume and a makeup pouch. This part here is a mirror—pretty handy for fixing my makeup, you know?
+Isn’t it annoying, fixing your makeup that much?
+It is, but that’s just part of being an adult.
+So it’s normal.
+Normal is good!
+It takes money too.
+This lipstick here was
+Looks expensive.
+If you think this is expensive, wait ’til you hear about Agatsuma’s stuff. Everything she had was expensive foreign name-brand stuff.
+She is the heiress of a pharmaceuticals company, after all.
+Officer Yamagishi’s in the same boat. She’s not too interested in it herself, so her family sends her her cosmetics.
+But she’s so dumb...
+Eriko kind of half-asses it. She’s always busy, so she just does the bare minimum.
+Well, she is beautiful.
+And Yugao’s insane! Her pouch was full of stuff from the hundred-yen store!
+Sofurin.
+Ahahaha! I mean, I use them too because the quality doesn’t lie, but hundred-yen foundation at her age? Give me a break!
+Captain Shikolenko.
+She had her wisdom teeth torn out the other day, right, and her cheek was swollen like you wouldn’t believe! God, it looked like hell to get some rouge on that thing...
+Behind you.
+I didn’t know you’d gotten so verbose, Sofiya.
+Ahhh?!
+Seems you’re quite the master of cosmetics unlike poor, impoverished little me. You will show me your secrets later, yes?
+E-Excuse me! Minato, let’s be off!
+You should’ve said something!
+You seemed to really be enjoying yourself.
+My sister was always pretty enough without makeup.
+Like hell she was. You just weren’t paying attention.
+This is usually how getting her to to open the computer room goes.
+Game dev has been going smoothly too.
+ISUMI! You changed the fucking story again—mind explaining?!
+W-Well, I t-thought this would be better.
+Now I’ve gotta draw the whole picture over!
+B-But it would be really cool if we had fireworks g-go off at the end...
+Shut it!
+Nnnnn!
+Pfffff!
+There, there, Taeka, no need to get so mad. Kane feels pretty bad about it too.
+You always take Isumi’s side.
+Eheh, eheh, eheh...
+Try to watch out a bit, okay, Kane? I mean, you’re the big sister here.
+Y-Yeah...
+Team 69 always gets along so well when we work.
+A... Grand Route structure?
+Y-Yeah, we’d change the story. I mean, with what we have now, the protag can only be with one heroine, right?
+You’re right about that.
+The current story has the protagonist paired off with Heroine One and works towards that.
+B-But I want Heroine Two and Heroine Three to be happy too... S-So I thought of, like, a Grand Route. Where everyone can be together.
+So like a harem?
+The previous story had the Lustveins disappear and PESP follow suit.
+Without their superpowers, the old PESPers revert to being humble perverts, but able to accept themselves without it becoming a complex.
+So we want to move all that to the Grand Route, but have ’em just beat the regular boss on Heroine One’s route and have a happy ending?
+Y-Yeah, so, Office Lady Boss is being controlled by the
+After all the problems in the story are solved, she adds more.
+True. In our old story, both Heroine Two and Three had a thing for Protagonist (temp), but that was left unresolved.
+W-Would that be okay...?
+I think it sounds great!
+The extra work will make it take longer, but I want to do it.
+I want to make the story all the way to the end.
+Luckily, we have plenty of time.
+Yeesh, sounds there’s no escape from my tablet for a while... Hope I don’t mess up my hands.
+The grind’s good, but you want to take breaks here and there. Input’s pretty key too.
+The discussion ends with us deciding to aim for a breakpoint.
+We’ll keep development going even after the exhibition too.
+The thought of that makes me grin. This is fun.
+Oh, this is something I heard from my sister, but... apparently no one’s crazy enough to release an adult game with their real name.
+C-Crazy?
+So I’m thinking of going with a pen name.
+I really like tigers, so I’m thinking of something tiger-based.
+Tiger my ass, you’re a cat.
+I mean, there’s no cooler animal out there, right?
+Cat...
+So how about... Tiger Minato?
+One hundred percent cat.
+That’d be me. A real tiger.
+Can’t you just go with Exhibitiman?
+Yeah, just go with that.
+Mm, Exhibitiman’s totally fine.
+It’s got a nice ring to it.
+......
+I’m really glad the gang’s gotten better at teamwork too.
+We got along better because we started to call each other by first names. Mostly first names.
+Being with Team 69 really relaxes my heart.
+I know you’re in harem mode around now, but... who’s your type, man?
+They’re my dear teammates, so I don’t look at them like that.
+Or perhaps it’s because we’ve been through enough together to be able to call each other by first name?
+Then what’s your type, like, broadly? By the way, for me, it’s gotta be huge tits.
+I like older women!
+Man, gettin’ my head in between my wife’s pair was divine.
+I love it when they ruffle my head!
+Either way, that book was right.
+So back when I was on the baseball team, the manager girl was a slut like you wouldn’t believe, dude—I’m talking banging the pitcher AND the catcher at the same time, shattering the pair like...
+Whoa, like the one girl in a nerd guy group.
+Tch. Men, I tell you. No matter how old they get, they always love talkin’ about the dumbest stuff.
+Seriously.
+I-I’m older than him.
+......
+......
+I am too?
+Me too?
+Hah...
+Mmm...
+Grr...
+You do something?
+No?
+Sometimes, though, the mood gets harsh.
+Hinako did tell me that this can happen when you’ve got a team of strong personalities together.
+Isumi.
+At such times, I’ll often have to go around improving the mood.
+I brought in some treat samples meant for guests. I figured they’d help you think better.
+Oh, yum! Thanks! Here you go!
+......?
+Noah, I laminated that torn page of the Sofurin calendar, so it’ll keep all right.
+Wow, someone’s thoughtful. Let me reward you—here you go.
+T-Thanks...?
+Chief, think you can run me through some training tomorrow?
+Ah, I like that spirit. Here you go! One, two!
+That really hurts.
+Keeping everyone’s motivation up is, I’m afraid, part of a producer’s job.
+(END)
+You seem to be in high spirits.
+Mr. Kugitani speaks, stretching as I sit beside him.
+People always tell me I look bored.
+You were smiling just now.
+I was, huh?
+Maybe I’ve started to just naturally smile.
+Having fun?
+Yeah. It’s tough, but really fun.
+I’m enjoying myself a lot right now.
+Enough to hope this festival mood lasts forever.
+The event’ll eventually come to an end, like how a ball that goes up has gotta come down. Law of inertia. Same thing with your game, right?
+Yeah, I’ll be happier when it’s finished.
+Question is... what’s Warden Mizushiro going to do with you then?
+What do you mean?
+You know the prison’s secrets. Hell, you know this place inside and out. You really think she’d let someone like that out of the walls with no strings attached?
+She seems to have a lot in mind.
+If you manage to get through this curriculum, truly understand the principles of the Mizushiro Program, and make the Correctional Exhibition a success...
+...your future will grow ever brighter, young Shuichiro.
+Does that mean you’ll... be free?
+Maybe. Maybe not.
+Come on, what are you sounding all detached for? This is about your future. Your life. It’s important.
+Honestly, I don’t really care.
+I put my chin to my knee and enjoy some calm for the first time in what feels like forever.
+If the game gets done, that’s all that matters to me.
+I’m not interested in anything else.
+The outside world is just radically distant from me.
+Any other prisoner would think you’d gone crazy. You hear the way the others talk, right? The second anyone opens their mouth, they’re going on about what they want to do on the outside.
+Eating chocolate ’til they puke, wolfing down a bowl of katsudon...
+That reminds me of a phone conversation I had with Hinako.
+She said that she’d put forth the money if I ever found something I really wanted to do.
+You really don’t have anything you want to do on the outside?
+It’s not like I don’t have any unfinished business on the outside.
+There’s a place that came to me in a dream just once.
+I want to go to the first place I stripped myself down.
+First crime, huh? Where was it?
+The roof of the school.
+I can remember it even now when I close my eyes.
+It was a glorious first step, and I remember it clearly. I even remember the GPS coordinates.
+That’s some perverse power of memory you’ve got there.
+The first time I stripped off my clothes, another student saw me. I don’t know who it was, but... it really excited me.
+It made me think, I’m here.
+You started on the roof, then went onto the streets, huh? Your drive never ceases to impress.
+From the roof to the streets.
+I like the sound of that.
+At first, I was just taking selfies on a polaroid camera, but that stopped satisfying me.
+A polaroid? Now that’s ancient. Even more of a senior citizen than me, that camera.
+Yeah, it was one of the ones that printed the date on the back. I got it from my father when I was little... back when we still talked.
+So why go through the trouble of using it?
+If I had gone digital, I could have been found out if anyone looked at my tablet.
+Of course, I couldn’t bring the photos home.
+I was scared that my cloud could get hacked too.
+So I kept them in an aluminum candy tin.
+I jammed the tin in this rusted pipe on the roof. No one ever found it.
+I would look at the photos to calm myself down and soothe my compulsions.
+With time, however, I could no longer hold my feelings back.
+I take it you want to get those photos back, then. I can see why. It’s a little worse than having your mom run into the porn mag you hid under the bed.
+Yeah. I don’t think the tin’s still there, though.
+That’s why I stripped off my clothes and took to the streets.
+It felt to me like the most correct thing to do.
+Running through the streets naked, though... it felt really good.
+It was such a wonderful experience, thinking back to it.
+Sounds like you found something that feels even better, though—that game stuff. Am I right?
+Yeah, he’s right about that.
+Game dev is even more pleasurable than streaking.
+I don’t know how many times I’ve asked this, but what makes game-making that good?
+Well, if I make a game, that’s proof that I exist.
+That’s what I feel. Like, it’ll show the world that I’m here.
+Just like the first time I went nude.
+I’m not really sure why I think that, though.
+You really are free, you know that?
+Am I?
+Think about it. You think someone in bondage can leave something behind for future generations? That’s a privilege for the free.
+He has a point, I think to myself.
+Maybe both of my two passions come from the same burning desire for freedom...
+I can tell how important this is to you and how passionate you are about it, but... it’s a feeling alien to a senior citizen like me. We just don’t grasp those youthful impulses.
+I want you to know what it’s like too, Mr. Kugitani.
+It would be really great if everyone knew what it was like.
+With how fun it is, who could resist?
+I bring the paper detailing all of the proposals to the warden’s office.
+A tour of the coal mine, personality tests... The issue that comes to mind with the former is safety. If we section off the mine and make a proper tour path, we should be able to set it up in time.
+I’ve already arranged for that. All I need is permission, ma’am, and we can get right to it.
+Oh, my, you’d already thought of it. Forgive me for underestimating you so.
+Warden Mizushiro is busy with all sorts of other work, but she’ll usually make time to listen to me.
+However, I must say that I am quite impressed with how much you’ve given shape to the exhibition.
+She compliments me a lot too.
+It wasn’t just me. I’ve had a lot of help.
+Your ability to say that is more proof of your talent. Be proud, for you are on the cusp of completing a great work.
+I want to blush from embarrassment.
+I can’t just come out and say how happy it makes me to hear.
+I’m sure the prison meals have left you hungry—do have this lunch I’ve made.
+Om, nom.
+I can’t even remember what my mother or father look like, but...
+This rolled omelet is really nice and sweet. This asparagus roll and the sesame spinach are great too.
+Now, now, the lunch isn’t running off anywhere. Do take your time, haha.
+...I figure this must be what it’s like to be praised by your parents.
+This would normally be a job for Officer Yugao and former Officer Agatsuma. They were quite talented, you see.
+Agatsuma in particular handled an immense workload on her own. She boasted the productivity of ten officers even before the power balance broke down.
+And she kept that up while pursuing her plan?
+Indeed. Her ability, I must say, boggles the mind.
+She wipes at her glasses over a strained smile.
+Confident, daring, bold, and unyielding in the face of challenge. Meticulous to details, yet blind to her surroundings when fully immersed in a goal. In a way, her being like that was quite useful.
+I have said this before, but there are situations when wise psychopaths find great societal success. Think of the president of a certain famous tech company, for instance.
+In the warden’s internal sorting metric, Julia Agatsuma is in the psychopath box.
+Sister Julia did keep saying that I was a lot like her too.
+Then... what does that make me?
+Hm? You’re a psychopath.
+Hn?!
+Look, right here. It’s in your test results.
+Hnn?!
+Oh, finally back from your date with the old bag, huh? How’d it go?
+......
+Romance with a golden girl, huh? Sounds like those old bones’ve really taken a liking to you.
+......
+H-How did it turn out, Shuichiro?
+I’m a... psychopath...?
+It’s official. I’ve been a psychopath this whole time.
+I had never given the possibility a passing thought, so I’m shocked.
+This whole time... I’ve been a psychopath...
+What, you think anyone’s surprised? We all knew.
+I’m sure I’ve been doing horrible things to all of you without even noticing...!
+Not really. I mean, who cares, right?
+I didn’t hurt any of you by accident, did I?!
+Well, y-you were pretty aggressive the first time you tried to recruit me...
+I knew it! Oh, god, I knew it!
+Aw, look at that, you made him cry.
+I didn’t do any good on the first aptitude test I took in the rehabilitation program, either.
+You big ole meanie, Kane!
+I remember my results. No cooperativity. No sociability. No nothing.
+Huh? I-It’s my fault...?
+It said the only path I had available to me was art.
+But my Artistry score was only 7.8!
+Wait, wasn’t it 7.4?
+My best score—art—was lower than everyone else here’s.
+He buffed it up a bit...
+Absolutely no sociability. Low art skills.
+Real buffed up...
+Add me being a psychopath on top of all that and I really do have no reason to exist.
+I’m... I’m so sorry, everyone.
+Damn, he’s genuinely depressed.
+C-Cheer up, Shuichiro!
+Ghhk... snff...!
+C’mon, psychopaths make good CEOs, remember?
+Ghhh, urgghhh!
+By the way, I bundled up the assets and archived the game. Want to see?
+Hell yeah!
+Can’t wait to see what it’s like!
+He really is more of a berserker than a psychopath, huh?
+Yeah, a game dev berserker.
+Real zerkin’...
+With friends, I really don’t have to get all depressed in the face of bad news, I think to myself.
+Ohh... Y-You stuck it onto the demo, and n-now it’s looking really game-like!
+Yeah. Most of the config settings are in too. It’s not a long game, either, so we just need the effect scripting and art assets to finish it up.
+Hm? Wait a second, that scene right now. Can we go back?
+We’re not fancy enough to have a debug mode, so, ah... Let me compile the text, then load...
+I really want some background music here.
+The scene is a montage of all the places the protagonist goes to on his date with the heroine.
+With no music.
+It’s like.
+The scene just kinda.
+Drags.
+I want to show what’s fun in the scene, and how the characters are excited.
+Yeah, it is kind of hard to tell if it’s supposed to be an actually fun scene or a surreal piece.
+I think we’d want some real poppy music like something an idol’d sing.
+W-Want me to sing?
+Ah, let’s not.
+Oh... I guess our tastes d-don’t really align...
+You’re an incredibly bad singer and having you sing would make the scene seem even more surreal.
+......
+He... really is a psychopath...
+We could suck up some tracks from a CD, but like I said before, these computers don’t have drives.
+Well, sometimes people really got to tell it to you straight.
+Yeah, computers nowadays don’t come with DVD drives anymore.
+I don’t want to compromise.
+I want to try out everything I can think of.
+If it’ll make the game better, I’ll—
+Ah!
+Huh?
+Wait... don’t tell me.
+Work time has come to an end. All inmates are to change out of their work clothes and prepare for dinner.
+You really ARE a psychopath!
+Hey, this isn’t what was in your report beforehand! What’s going on!?
+I’m never doing this again, you hear me?! Never again!
+Everything I can think of” includes barging into the broadcast room
+O-Okay, it’s time for today’s Hiwako Kushimori’s ‘Lengthened Sentence Radio PP.’ Today, I, Hiwako Kushimori, will be speaking with...!
+...t-today’s guest, the head of the Correctional Exhibition’s Planning Committee, Exhibitiman!
+Crappymori.
+Huh?
+You like idols?
+Uh. W-What does that have to do with anything?
+Do you like idols?
+And I mean, w-why did you barge into my own safe space?
+DO YOU LIKE IDOLS?!
+......
+......
+Ah.
+Huh? Snff, w-what are you asking me that for?!
+Play an idol song.
+Snf! O-Okay, here’s... here’s our first track! GNG45’s E-Edging Rotation!
+She plays the instrumental version.
+If we record it from the room’s speakers, it should be usable although of poor quality.
+Snff... Nnn... c-could you just let me go already...?
+Okay, give us some traditional pop next.
+You fucking psychopaaaath!
+Just hurry up, damn it!
+This should make the game turn out better.
+Sofurin managed to talk our way out of any punishment for taking over the broadcasting room.
+I elect to forget that, then I head over to Dr. Higuchi’s room.
+So, the personality tests I asked you to put together got officially approved.
+Ah, got it. So I’ll be showing up in front of people, then, huh? I’d better get all my ducks in order.
+Are you going to put on a lot of makeup?
+Hm? Er, you know, a bit, I guess.
+Oh, right!
+Seeming to remember something, she opens her desk drawer and a big brown envelope pops out.
+Not that this is compensation for me helping out, but do you think you could help me with my work again?
+If it’s something I can do.
+Yeah, you definitely can. Easily too. I just want you to answer this poll.
+The poll she shows me has a lineup of simple-looking questions.
+I’ve done one of these before. It was something Warden Mizushiro made.
+The warden didn’t make that, right?
+I look at the back. It says “Bunsho Association.”
+Yeah, it’s not exactly official prison duty. It’s just something I wanted you to try.
+Since Dr. Higuchi has always been kind to me, I want to help her however I can.
+I talk to her while I pencil in my answers.
+I’ve been having a lot of fun lately, Dr. Higuchi.
+There’s a lot I want to tell her.
+Before now, everything just felt so... so boring. Like, what I was on the outside.
+It felt like I’d been forced to wear heavy, invisible clothes.
+So when I took off my clothes, it felt like my heart was just a little lighter. Like I’d been a bit liberated.
+But when I put my clothes back on, I’d feel so heavy again. It would be hard to breathe.
+Yeah?
+But ever since starting making this game that weight has just been gone.
+It felt like all that weight, all those chains just... disappeared. Just faded away.
+That’s just what I think, though. I’m not sure how Amatsu feels.
+Mmhmm, mmhmm.
+He seems to still be upset from before.
+Personally, I want him to share this feeling.
+I love game-making. It feels like I’m not being restrained by anything. Like nothing’s holding me back.
+Right.
+It makes me feel like I really do exist.
+Is that so...?
+Okay, done.
+I answer all the poll questions and hand her the paper.
+Good job! I’ll tell you how you did later.
+I’m not really interested in the poll proper, but I’m glad to be complimented.
+The last spurt starts tomorrow, so I’m going to do my best.
+Last spurt, huh? The last sprint to proving that you’re here.
+Self-expression is the first step to adulthood! I’m rooting for you, Shuichiro!
+I put my hand to the open hole, then turn around.
+There’s something I do want to ask.
+Dr. Higuchi.
+What’s up?
+Am I a psychopath?
+She freezes.
+Then, she slightly bends down and puts her hand on my head like usual.
+Her expression as she answers me really stands out.
+You’re just still a kid. That’s all.
+It looks almost like a stilted smile, or like she’s on the verge of tears or neither.
+Now loaded up with music, the game now seems that much more professional.
+Looks like we’re about ninety percent through, I’d say. We just need the art and proofreading done.
+Feels like we’re on the home stretch, huh? Which means that all we’ve got left is unveiling this baby at the exhibition.
+‘Pervy ESP Story’ by Team 69...
+Then, Isumi leans forward as if remembering something.
+N-Name!
+Hm? Mine’s Shuichiro. Theirs are Noah and Taeka.
+Nice to meetcha.
+N-No! We need to decide on a name!
+For the team, you mean?
+True, Team 69 isn’t the most appealin’ name.
+I hadn’t given any thought to our name at all.
+But Isumi is right. We definitely want a name of some kind.
+That would feel more team-like. Cooler.
+I’ve got it!
+Okay, let’s hear it.
+My name is... Shuichiro Minato.
+Yeah, you said that a few seconds ago.
+And back when this place was mainly a coal mine, it was called Minato-jima. So...
+How about... Minato Soft?
+......
+......
+......
+Minato... Soft.
+A good name.
+P-Pretty good name.
+It’s just... not what we should go with.
+Why not?
+I can’t really explain why, but I feel like... we really shouldn’t go with it.
+We end up not going with it for whatever reason.
+And you couldn’t come up with anything no matter how hard you thought?
+Yeah.
+I looked it up on Sofurin’s tablet later. The name I came up with was already a veteran company in the field, so we gave up on it.
+I learned my lesson: the good names are already taken.
+You’re really stuck on it, aren’t you? Did you like it that much?
+Yeah. It felt pretty Seiran Island-ish to me.
+I’m sure Seiran, the utopia of my dreams, has a wonderful dock.
+I wanted to be just like that: a port for the perverts of the world.
+So I figure, it’s best to go with what I like.
+Yeah?
+So I’m thinking of going with Naked Soft.
+Sounds like a challenging thing to put in the exhibition.
+Can you tell me something you like, Mr. Kugitani? As a reference.
+I think you and I both know how much I love
+Cigarette Soft? I don’t think that would work out.
+Something else, huh? Tough call. It’s been forever since I’ve lived life on the outside, so I’ve forgotten most everything.
+He puffs out another bit of smoke with a self-effacing grin.
+Getting on in years?
+Rude, but that’s part of it. I try not to think about it too much. It’s not like I’m ever getting out of here.
+Come to think of it, he did say that he gets his score added to fairly regularly since people sometimes get in trouble for what he’s supplied them with.
+That’s a real shame.
+Oh yeah?
+You look like you could do all sorts of jobs if you got out.
+Nah, not happening. Just think about it.
+Think about what?
+Here in prison, I’m the smuggler and the information broker. Everyone needs me. I’m a person of importance.
+But what use do any of my skills have on the outside? You can buy chocolate for a hundred-yen coin if you want, and anything you want to know is a few clicks away.
+No one’ll come to me for anything. All I’ll be is a ragged old man with two murders over my head.
+Really? You think so?
+Yeah, and that’s why this prison’s the place for me. I get to talk like I’m important and I get three square meals a day. Don’t need to worry about going senile, either.
+This is a rare time when I find myself second-guessing what Mr. Kugitani says.
+Because if I knew someone like him on the outside, I know I’d go to him for a lot.
+Isn’t there anywhere you want to go?
+A place I want to go, huh? Hmm...
+Where I grew up, I suppose. It’s got a beautiful indigo sky and sea that get gobbled up by orange in the evening and take on this candy-clear color in twilight. Smelled of passion. A beautiful place.
+How about paying it a visit if you get out, then?
+That’s not my number-one spot. They had you on a boat to get to the prison, right? Do you remember?
+I try thinking back.
+It feels like it was ages ago.
+Yeah, they put me on a boat from the mainland to here.
+The place they ship you off from—it’s famous for tulips, see? I happened to catch it at a good season, so I remember this field just full of tulips as the boat headed off.
+I didn’t see anything since it was winter.
+Yeah? That’s a damn shame. It was really beautiful, so I want to see it again. An impossible dream, but still.
+......
+How about... Lale?
+I give the group my suggestion the next day.
+It means ‘tulip’ in Turkish.
+The image Mr. Kugitani reminisced about seemed very beautiful to my mind.
+Lale, Lale... Not a bad sound, really. Pretty fitting for a gang from Tulip Prison.
+I-I think it’s pretty snazzy!
+People can call us Netolale if we start cranking out NTR bangers too.
+The whole gang comes together in surprisingly easy agreement.
+Then let’s get right to making a logo! Okay, let’s see...
+Hand it here, leader. What kind of design we thinking of going with?
+Er, well!
+Something that’s like... g-going to the next stage? The next level of sicko perversion?
+Yeah, there we go!
+Then how ’bout we take an arrow mark, and since it’s a tulip, we go... Okay, how’s this?
+That rules!
+Okay, let’s scan the paper and clean it up with a Bezier curve...
+Whoa!
+The three take turns bringing our logo to life, step by step.
+Then, it returns to me.
+......
+Our logo is complete.
+Lale.
+The symbol that signifies us.
+Pretty good for something we made on the spot, don’t you think?
+Y-Yeah. It really feels... r-right.
+I think it portrays us pretty well. Don’t you, Shuichiro?
+This is our name.
+Yeah... this is REALLY good!
+It’s such a strange feeling.
+We’ve been together for so long, and yet.
+Now. Now that we have an official name.
+In this very moment, it feels like we’ve truly come into being.
+All right, let’s ride this momentum and finish the game!
+We are a newborn being.
+A bit rough to get the coloring done with how many days we have left, but... guess that’s par for the course.
+A baby bird compelled by nothing and oppressed by nothing.
+There’s also a ton of effect scripting to do, but all we’ve got to do is keep moving. We’ll get to that finish line eventually.
+A person that nothing has bound.
+W-Would you get mad if I said I w-wanted to change the story?
+We are free.
+Hey, Minato, the warden’s calling you. It’s probably event-related, so hurry over.
+Got it! Keep up the good work while I’m gone, everyone!
+I feel like, in this moment, I have become the freest person on earth.
+Here I am, ma’am!
+My, that was fast. Has your game development been going well?
+It has! We’re almost done in fact!
+Is it now? My, that’s wonderful.
+Delete all the data. Right now.
+Huh?
+(END)
+Delete all the data. Right now.
+Huh?
+I’m not sure what she’s saying, and I find myself grunting for confirmation.
+The warden does not miss a beat, however. She simply repeats herself as if her order does not warrant surprise.
+Delete all the game data. Immediately.
+But... why, ma’am?
+I believe I have already stated the reason. Do you mean to tell me you truly do not understand why?
+I do not.
+Why would she say such a thing? Demand such a thing?
+Gracious. I thought you a child wise beyond your years, but it seems my judgment was slightly mistaken.
+I won’t delete it, ma’am. No matter what happens.
+Then you leave me no choice.
+Wow, you can tether with this thing?
+I gave it a quick restructuring, so things should be smoother as long as we have internet access.
+Hey, who the hell are you?!
+Huh? W-Wait... Urgh!
+The SST...? Wait, I don’t recognize any of you! Who the hell are you people?!
+Grhk! What the hell’s your angle?!
+W-Wait, what’s going on?! Who are you people?!
+Stop this, now! Stop manhandling them! Listen to me, I’m in charge here!
+I ask that you be quiet, Captain Shikolenko. We are acting under Warden Mizushiro’s orders.
+What?!
+What did you just do, ma’am?
+Took care of your game, of course. I sent my personal unit to the computer room.
+Mrs. Mizushiro, the computer room is under our control. We will now proceed to wipe their computers as ordered.
+N-No, you can’t...!
+One fucking finger on our machines and see if you get out of here alive!
+Ghh... Sis, h-help...!
+I ordered you to stop! What is going on here?!
+I hear their screams through the speakers on the warden’s device.
+She shrugs.
+In a calm sea, every man is a pilot. Only under extreme stress can one’s true mettle be seen—something you, of all people, must understand.
+I... don’t follow, ma’am.
+From what I can gather, she’s having her people delete all the data on the computers we’ve been using.
+We have insurance, though.
+We still have our encrypted backups.
+Even if we lose the day’s progress, we still have a ton to fall back o—
+Oh, and just in case.
+Do wipe every computer in the room.
+......!
+Acknowledged.
+Wait, no, anything but that!
+S-Stop, stoppp!
+Ghhhhhrgh! You worthless, two-bit goons!
+Will someone tell me what the hell is going on?!
+I’m begging you, don’t do this.
+I’m afraid I have to.
+I apologize if I’ve done anything to annoy you.
+I’m not angry.
+I worked so hard on it.
+I am, I must admit, slightly disappointed.
+We worked so hard on it.
+I thought you understood my lessons.
+And you’re going to burn it all down?
+Evidently, you did not.
+Do you think you have the right to do that?
+I do.
+What gives you the fucking right?!
+Wipe it.
+As you will.
+......!
+What the hell is she...?!
+Stay put, girl. It’s too late now.
+Ghn...!
+No matter how much you struggle, all it takes is one click.
+Ah!
+...and it will be as if it never existed.
+NOOOOOOOOOOO!
+Oh! Shu, is that you? I-It’s been so long since you’ve given me a call, I... S-Sorry, the tears are just... Boohoo, boohoo...!
+Oh, me? I’m doing fine as ever, you know, keeping Chima and Lou well-fed. C’mere, you two! Big brother’s on the phone, give him a nice meow!
+Work’s going all right. Spending a lot more time at home since it’s mainly been streaming, so... I gained a little weight. It’s gotten kinda hard to fit into the motion capture suit I bought...
+Oh, and you caught me baking! I was making fruit tarts, your favorites. With the pineapple and strawberries on top! I got some nice fruits like you wouldn’t believe from this year’s hometown tax...
+Oh, wait, don’t tell me you’ve forgotten! C’mon, Shu, next month is your birthday!
+So I was doing some practice ahead of time. I may not be able to celebrate it with you, but I don’t want to forget it. Not the sentiment, either.
+Take care of yourself, okay? Make sure to cover up properly when you’re sleeping, and call me from time to time, all right? I’ll try to keep healthy too, don’t worry. Okay, take care!
+The long conversation is over. I hang up the phone.
+The phone center always has a serpentine line to it.
+I look behind me. No one.
+The center is barren, occupied by nothing but wistful air.
+I leave the phone center and walk through the prison.
+My pace is brisk. My path is automatic.
+I pass by no one on the way.
+......
+Now, no one is in the prison.
+Not in the workstations.
+Not in the cafeteria.
+Not on the yard.
+Not in the mine.
+Not in the library.
+There is no one anywhere.
+The prison is empty. Silent. It is as though the entire facility has fallen asleep.
+The sleepless prison of perverts is as quiet as a dead flame.
+This is the warden’s doing.
+She sent every last prisoner down into the Damned Ward.
+Tulip Prison’s entire inmate population is now underground.
+......
+Except for me.
+The Correctional Exhibition has been over for a while. I’m not sure for how long.
+I heard that it was a rousing success.
+The criminality coefficient system and the new paradigm it represented met widespread social acclaim.
+I wanted to enjoy the event with everyone. It’s a shame.
+A crowd of inmates takes a force of correctional officers to manage them.
+The guards also ended up going underground.
+That leaves no one on the surface.
+I can walk anywhere I want to, but it means nothing with no one here.
+......
+I have no idea what the warden is thinking, but this is a clear abuse of power.
+Yet even in the face of such excess, there are no guards able to stop her.
+None of them have that kind of power.
+Even while locked in a cold war with each other, Yugao and Agatsuma once kept the warden in check.
+Now one has lost her authority while the other is in a cell underground.
+......
+But that doesn’t matter.
+Not when I’m the one who caused all this.
+With time, inmates gradually begin to return to the surface.
+There seems to be a method. A theory the warden is operating on.
+The inmates deemed unproblematic by her standards are allowed back to the surface.
+Haa, haa... haa, haa...
+The first ones to return are those with shorter sentences and good behavior.
+Are you okay?
+Haahh, haah...
+Crappymori doesn’t get a mean-spirited quip in like she normally does.
+She’s just out of breath, trying to keep her quivering body up.
+The rules for who comes back up are unclear. Some of the earliest returnees are ones who committed serious sex crimes on the outside.
+This has sown great confusion among the inmates.
+Man, I... I got no idea why they let me back.
+I’m probably the only one who knows why.
+Heart rate, perspiration, and risk factors.
+Warden Mizushiro has to be picking them out mechanically, with the first batch being well-behaved inmates by coincidence alone.
+T-That place, man... w-wouldn’t wish it on my worst enemy. Made solitary seem like a fancy hotel...
+The Damned Ward is a place of horror.
+It’s said that most can’t last a month there without severe damage to their mental health.
+I never want to go there again, man...
+Once you’ve experienced that hell, you’re scarred for life.
+The inmates have completely lost the energy to oppose the warden.
+They’ll probably try their damnedest to be on their best behavior now. Anything to avoid getting sent back down there.
+They’ll probably finish their sentences with clean hearts and clean minds.
+......
+I look up at the porn site URL I once painted. It’s still there.
+It feels like a remnant from a simpler, happier time.
+Fewer than a dozen guards are left on the surface.
+The librarian isn’t in the library anymore, so I can come and go as I please.
+I flip through the newspapers, reading all about Isumi, Noah, and Taeka’s arrests.
+......
+As if I’m grasping at what remains of them.
+The warden’s orders have left the correctional officer staff in chaos, but... no one can stop her. She’s consolidated every last bit of power.
+I’m finally able to talk to Sofurin a week later. The bags under her eyes are even darker than during the Correctional Exhibition.
+They sent us all to solitary right after the game files were deleted.
+I have no idea what happened after we were separated.
+There’s... actually still a copy of the data. Noah mentioned it on her way to solitary.
+What?
+It looks like Noah’s desperate keyboard mashing wasn’t in vain.
+She managed to send the game data to an outside server through Sofurin’s tablet, which happened to be connected at the time.
+Since the file size was so big and it was so sudden, she had to use a data transfer service.
+What’s the web address?
+It’s in her head. She never forgets a sequence of letters once it’s in her brain, but... we don’t have any way of asking her.
+How long’ll it last?
+Three months, she said. If we don’t recover it by then, it’ll end up fully deleted.
+If we sit on our hands, the game will vanish forever into the ether of the internet.
+And even if I do recover the data, I can’t finish the game without the three of us.
+How was everyone?
+I only caught sight of them from afar, but they didn’t look good. Kurokane seems to be doing... relatively better.
+She strains out her voice while biting at her cleanly cut thumbnail.
+She’s got really weak, really sensitive skin. If she catches something bad down there, it’s not going to be good...
+Her sister, her flesh and blood, is in a horrific dungeon. It’s only natural to worry.
+I find myself feeling just a little guilty.
+They say the normal mind can only take a month in there.
+In other words, we have to get them out before then.
+I’ve tried to compromise with Warden Mizushiro a few times.
+I cannot allow specific prisoners out of the Damned Ward.
+Nothing, however, gets through to her.
+I placed all the prisoners temporarily underground in order to more efficiently sort them.
+Into situational and innate types?
+If you understand that, I should not have to explain further.
+The innate criminal commits crime as is their nature. It follows, then, that society stands to benefit from their imprisonment underground.
+So those three are innate criminals, then, ma’am?
+......
+Is that why you won’t let them to the surface?
+Innateness is not the only reason to keep them underground.
+Then, why lock them down there?
+Because they created sexually explicit content.
+She wipes down her glasses and places both elbows on her desk.
+With the innate criminals locked away, that leaves the situational criminals to be dealt with.
+As I’m sure you remember, situational criminals offend not from inside compulsions but outside influences.
+What the situation would demand, then, is the creation of an environment in which crime does not occur. Am I wrong?
+So you’ll get rid of sexually explicit content... and the people who made it?
+Indeed. I do not believe it needs to be stated how foolish those who made this world are. How sullied their hands.
+The path is clear: use the prison to show my hypothesis correct, then move onto censorship in the outside world.
+There’s no way you can pull that off.
+My accomplishments of reduced recidivism speak for themselves. It will become possible in due time.
+There’s no way you can pull off something so dramatic.
+Think about what the prison’s copious amounts of pure coal are for. Think about what I’ve been putting those profits to.
+That Seiran Island is bordering on a place of myth, now, is it not?
+......!
+Seiran Island, a sicko’s utopia.
+My daughter was destroyed by a man from that island. Is it anything but natural to censor its very existence?
+I had planned to wipe the island out sooner, but the untimely mental breakdown of my confidant threw a wrench in my plans. With my designs undone, the island yet lives.
+The place where I’ve always wanted to go. The place that slowly stopped its advertising. The place that has gotten harder and harder to search for online.
+Why do you think I made criminality coefficients public for all the world to see?
+Should criminality coefficients fall after censorship, it will serve as proof of the evil of the content brushed away. None will be able to muster a retort.
+But you have control over the numbers. This is just manufacturing consent.
+The total of everyone’s scores will be public information. Under the surveillance of the Ministry of Justice itself, no one will be able to tamper with it. Have I not explained this before?
+Then are you going to change the law again if there’s no effect?
+We shall see... when the results appear, a good twenty or thirty years in the future.
+All of that is because of Warden Mizushiro.
+Which is why I will not see this plan’s fruition in my lifetime. That is why I need an heir in whom I can place absolute trust.
+She wants her plan to continue after she passes.
+She wanted me to do it. That was the purpose of the lessons.
+Every criminal eating bread doesn’t mean bread causes crime.
+There’s no link between porn and sex crime.
+Do you have research that proves that?
+Japan has low rates of sex crime because it’s full of erotic content.
+Can you not imagine the difficulty of coming forward about one’s own sexual victimization? Or how Japan’s infestation of sexual content fosters such an environment?
+Real harm is reduced by people finding their release in fantasy!
+Does not the thought precede the action?
+There’s no way her thinking is right.
+I cannot give her an inch.
+Even if it takes every last breath I have in me, I will root out sex crimes from Japan.
+Because if I do, I’ll...
+I will lock away the innate criminals and make a world where no one is influenced into sex crime.
+If it’s all properly rated and organized—
+Which is why I cannot allow something as base and vile as pornography to run rampant in society!
+Its annihilation will put our society back on course and return order to the world...
+...and be the foothold that allows my daughter to walk freely outside once more!
+Warden Mizushiro’s daughter.
+Her sexual victimization has left her unable to leave the house.
+That is why the warden wants to censor all sexual content.
+You’re... insane.
+Insane? Is it not yourself of whom you speak?
+She wants to root out the erotica from Japan.
+Porn and erotica in all its forms will be gone.
+And she has the power to do it.
+I understand that... what happened to your daughter was very painful, ma’am.
+I used to believe in her.
+But I think you’re being... driven by revenge. Your judgment is clouded.
+She picked me up from nothing and educated me.
+Please. Come to your senses.
+She looked me in the eyes and told me I was smart. Praised me.
+You’ve taught me so much, ma’am.
+So I think I can reach an understanding with her. We just need to talk it out, right?
+So I just know that—
+Do you still not understand?!
+I allowed you to make your game so that you would notice on your own. So that you would discard your harmful fixation on sex!
+I had thought that, were you able, the program would at last be a success.
+That I might even have finally found myself a worthy successor.
+I allowed you to walk the surface while the others festered underground. I gave you time, yet here you are: the very picture of a perverse inmate, unable to overcome your sex criminal’s mind.
+I will never be able to see eye-to-eye with this person.
+I am truly, truly disappointed in you, young Shuichiro.
+We will never be on the same page.
+Let me be absolutely clear, then. I will not let them out of the Damned Ward.
+This is painfully clear to me now.
+I know what has kept you going and kept you motivated thus far: making your game and your friends.
+I trusted her so deeply.
+Then I will deprive you of both as punishment for betraying my expectations.
+I even thought of her as a mother.
+First time I’ve seen the sky in ages and it’s this gloomy and cloudy. Hardly a change from underground.
+It’s still a cut above, though. Couldn’t smoke down there, after all.
+I see Mr. Kugitani for the first time in a long time, exchanging our usual greeting with our fists.
+Still, the look on your face could give the dour sky a run for its money. Something happen while I was gone?
+I explain the situation.
+Cff, hhk! Guess that blank’s coming in with a vengeance...
+He pulls out his cigarette as usual, then chokes hard.
+So, in summary, Warden Mizushiro got desperate and drastic the moment you turned tail? Since she determined she wouldn’t be able to groom another heir?
+Yeah. She wants to see her plan through during her lifetime.
+She had high expectations of Yugao and Sister Julia, but their lack of mettle disappointed her.
+Once she realized I wouldn’t be useful to her, she started to hurry.
+She wants to bring her plan to fruition no matter what.
+What do I do?
+Not too much. I figure you’ve only got two choices, right?
+What’s the first one?
+Do absolutely nothing. Keep still as a stone until the warden calms down.
+That won’t save the other three, though.
+Then you’ll want to become her obedient lapdog.
+And accept her way of thinking?
+You can think however you want. Hate her views as much as you want. You just have to act like you’re on her side—that might save them.
+It won’t. If I agree with her, that’ll mean they should be kept locked up.
+Ah... yeah, you’ve got a point there.
+And if they’re kept locked up... I can’t finish my game.
+There’s no point if I can’t finish my game.
+How can I get out of this situation?
+There’s only one way.
+Mr. Kugitani. You’re the guy who gets things, and there’s something I want.
+Booze? Sounds like you’d want to drink and forget.
+One way to save them and get my game back.
+Sandpaper.
+I must escape Tulip Prison.
+Noah once flew a drone to Ukkon island.
+It has to be... somewhere around here.
+There were a few obstacles when it came to sending a drone there from the prison.
+The first was the security cameras. The other was the flight distance.
+If the drone wasn’t kept waiting on the outer edge of the island somewhere, it would have been found immediately.
+Here it is!
+That’s why I set it up in the duct route.
+Using the ruler-precise route diagram Noah drew up as a guide, I open a certain book in the library.
+It’s a book about the history of the island with a map of its entirety.
+Would have never picked up the habit of coming to the library if not for Isumi...
+The wharf is in the same place, so I’m able to see what is located where.
+Here it is...
+When I cross-reference it with the route leading out that Noah drew up, I see...
+The slagheap.
+The coal refuse forms a mountainous pile, allowing for clean landings.
+This... This could work.
+If we took this route.
+We could get outside.
+(END)
