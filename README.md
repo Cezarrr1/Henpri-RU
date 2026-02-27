@@ -36,7 +36,7 @@
 [Ссылка на руководство в Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=3674319538).
 
 ## 📖 Boosty
-[Ссылка на бусти с проектами](https://boosty.to/cezargroup)
+[Ссылка на бусти со всеми проектами](https://boosty.to/cezargroup)
 
 ## Поддержать проект
 
