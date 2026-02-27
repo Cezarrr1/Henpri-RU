@@ -35,8 +35,12 @@
 ## 📖 Steam
 [Ссылка на руководство в Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=3674319538).
 
+## 📖 Boosty
+[Ссылка на бусти с проектами](https://boosty.to/cezargroup)
+
 ## Поддержать проект
 
 Если перевод полезен — буду рад любой поддержке ❤️
 
-[![Boosty](https://img.shields.io/badge/Boosty-Donate-orange?style=for-the-badge&logo=boosty)](https://boosty.to/cezargroup)
+[![Boosty](https://img.shields.io/badge/Boosty-Donate-orange?style=for-the-badge&logo=boosty)](https://boosty.to/cezargroup/donate)
+
