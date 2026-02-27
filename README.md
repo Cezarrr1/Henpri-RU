@@ -16,9 +16,9 @@
 ## 🤝 Помоги улучшить перевод!
 - **Правки в исходники**: Форкни репозиторий → измени файлы в `/src/Text/` → [создай Pull Request](https://github.com/cezarrr1/henpri-ru/compare).
 - **Предложения**: Создай [Issue](https://github.com/cezarrr1/henpri-ru/issues/new?template=translation-fix.md).
-- **Для новичков**: [Подробная инструкция](docs/how-to-contribute.md).
+- **Для новичков**: [Подробная инструкция](how-to-contribute.md).
 
 **Пример PR**: "Исправил 10 фраз в диалогах — лучше звучит!"
 
-## 📖 Steam Guide
-[Ссылка на твой гайд в Steam] — инструкция + QR на этот репозиторий.
+## 📖 Steam
+[Ссылка на руководство в Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=3674319538).
