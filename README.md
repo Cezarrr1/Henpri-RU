@@ -6,10 +6,10 @@
 [![GitHub Releases](https://img.shields.io/github/v/release/cezarrr1/henpri-ru)](https://github.com/cezarrr1/henpri-ru/releases/latest)
 
 ## 🚀 Скачать готовый релиз
-- [Последняя версия (.zip)](https://github.com/cezarrr1/henpri-ru/releases/latest) — просто распакуй и кинь в игру.
+- [Последняя версия (.7z)](https://github.com/cezarrr1/henpri-ru/releases/latest) — просто распакуй и кинь в игру.
 
 ## 📝 Установка
-1. Скачай .zip из Releases.
+1. Скачай .7z из Releases.
 2. Распакуй в корневую папку с игрой в steam.
 3. Играй
 
