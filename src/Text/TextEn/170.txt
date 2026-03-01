@@ -28,7 +28,7 @@ We need help.
 I stand up.
 Hem! Hem! Ahem!
 I clear my throat and adjust my voice.
-Cough, cough... cough!
+|Cough, cough... cough!| Ahhhem!
 Lightly clearing my throat, I cough one last time.
 ......
 I stop and contemplate the silence.
@@ -44,7 +44,7 @@ Some people get very amused at the misfortune and sadness of others.
 It’s probably the image the people on the outside have of us.
 Ugh... I want to go home... snff...
 Drone Girl wants to go home?! I can comfort you with my engine if ya want!
-Hahaha!
+Hahaha!|Hahahaha!
 The crying echoes from Kurebayashi’s cell.
 The mockery spreads like wildfire.
 Aha... Hahaha...! It serves you right for having me sent to solitary...!
@@ -503,7 +503,7 @@ Right here... that’s all the proof I need.
 I’m doing what I have to do. It doesn’t matter how I feel about it.
 It does! Your well-being matters. Why would you continue something that causes you so much pain?
 I have to do it. It’s my responsibility.
-No, it’s not. Don’t choose a difficult path for yourself. You deserve to be happy. You
+No, it’s not. Don’t choose a difficult path for yourself. You deserve to be happy. You |have| to be happy.
 Don’t you want us to be... together?
 Tch!
 She looks like she’s about to hit her.

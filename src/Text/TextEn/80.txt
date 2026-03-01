@@ -58,7 +58,7 @@ All right.
 And if you want something, Kurebayashi, you just need to say it, and I’ll do my best to provide it.
 ......
 I have a question. Is Captain Sofiya Shikolenko also involved in this?
-Dear Sofurin? She has nothing to do with this matter. She’s an inflexible fool, so I
+Dear Sofurin? She has nothing to do with this matter. She’s an inflexible fool, so I |did| think we might be able to make use of her.
 If you want to use her as a pawn, I could threaten her and tempt her to join.
 No, don’t.
 I see... I understand.
@@ -137,7 +137,7 @@ Why is that?
 The answer is simple. It’s because of the house’s edge. In other words, the recovery rate.
 House edge?
 Think of it as the tax that customers pay to the house as an entry fee.
-For example...,” says the Chief as she takes out the roulette wheel
+For example...,” says the Chief as she takes out the roulette wheel.
 This one is simple. It’s a game where you guess where the ball will land on the black and red wheel with numbers.
 The customers have to guess a number from one to thirty-six, red or black, even or odd, high from nineteen to thirty-six, low from one to eighteen.
 If you guess correctly, you receive a payout based on the amount. If you lose, the chips are confiscated by us and go into the house’s pocket.
@@ -199,7 +199,7 @@ I burned through a solid twelve million yen.
 ......!
 There is a single prisoner winning at poker table B. At this rate, the table will break.
 Information about the tables is being relayed to us wirelessly by Kurebayashi. She is monitoring the cameras in a separate room.
-Please deploy
+Please deploy |the countermeasures|, Chief.
 Gotcha, little miss.
 You’re good at playing cards, Chief.
 Dice aren’t really a thing these days. A gambler should be able to handle cards. It’s part of the job.
@@ -221,7 +221,7 @@ We’ll be short-handed, so you should be able to do this much too.
 Impressive.
 Hehe... You can’t make it without the ability to accept both the good and the bad in this line of work.
 Cheating...! That’s cheating...! No count...! Do-over!
-Oh... so you’re callin’
+Oh... so you’re callin’ |me|, Taeka Hatae, a cheat?
 Huh?
 Even if the situation is about to get chaotic, it can easily be settled with the presence of Taeka, the Hatae Clan Chief.
 It’s nice of you to say such pleasant things... Hey! I hear this customer has something to say, so do me a favor and show him out back!
@@ -279,14 +279,14 @@ Considering her personality was already like that of a yakuza, maybe this kind o
 Oh dear, taking care of a kid, huh...? But since Sister Julia and Minato asked, it can’t be helped.
 We’ve assigned miners to act as our security.
 I thought it would be good to have strong individuals who can withstand robberies and violence.
-But are you sure?
+But are you sure? |Changing| cash for fuxx means dealing with huge amounts of money, right?
 Even though we attacked you before...
 There’s no team more reliable than Mr. Bear’s.
 I don’t see that as a problem.
 We’re all comrades who’ve shared both joy and hardship.
 ......
 Lend me your strength again, Foreman.
-So...? How much do you need,
+So...? How much do you need, |boss|?
 It isn’t just the inmates who come to exchange.
 The gambling den isn’t just targeting prisoners.
 This will only work if we get the guards too.
@@ -393,7 +393,7 @@ I actively expose any violations that go against my own motives.
 This minimizes any unnecessary fluctuations in the fuxx system.
 And I am even able to know the specific date and time of the raids in advance.
 GOOD WORK!
-Listen up, you guys. Make sure
+Listen up, you guys. Make sure |all| the customers get out safe.
 The Chief always makes sure to drive this point home.
 If a customer gets caught in our gambling den, they won’t come back. Pay compensation and send the out back door. Got it?
 In preparation for a potential raid, the Chief has taken measures to ensure that everyone can escape.
@@ -464,11 +464,11 @@ I told you... Aha, hahaha...! Oh no... It’s too... funny...! I don’t know ab
 Some prisoners ignore the IOUs while others end up with fake IOUs that are passed off as forms of debt.
 S-Should I tattle on you to the bosses...? Hehe, if you keep borrowing and lending... you’ll get written up for Illicit Exchange, you know...!
 You can make as many IOUs as you want.
-There’s no contract enforcement inside the facility, so there’s no way to give them 
+There’s no contract enforcement inside the facility, so there’s no way to give them |binding power|.
 In other words, you can get away with feigning ignorance.
 ...Watch out for anyone who runs out of money, kid.
 Before starting this business, the Chief gave a warning.
-You never know what they’ll try to pull. When people get put in a corner, they’ll do
+You never know what they’ll try to pull. When people get put in a corner, they’ll do |anything|. You know why?
 Why?
 Basically, it turns them dumb. No matter how smart people might be, if their brains aren’t working, they won’t act like it. They’ll pull suicidal stunts thinking they’re being clever.
 If you think things are gonna get dicey, then always bring a bodyguard. Be smart before anyone else can get stupid. That’s the key to successfully navigating the underworld.
@@ -484,7 +484,7 @@ Everything is going according to our plan.
 After all, no one wants to give up the veritable convenience of fuxx.
 But if fake IOUs start circulating, no one will be able to borrow money.
 In other words, the gambling dens will shrink and the circulation will decrease.
-Unless those debts take on 
+Unless those debts take on |binding power|, of course. Unless that system of obligations becomes real.
 All we need is a source of power everyone can believe in.
 So basically, what we need is a symbol of trust that everyone can recognize, right?
 The religious professional who turns faith into money smiles gently.
@@ -562,7 +562,7 @@ I said do jump payments!
 Boing, boing...
 ......
 ......
-That means just pay the interest!
+That means just pay the interest!|But I don’t have the money!
 Is there some trouble?
 Ah, it’s Half-Naked Man...! Mwah, mwah...
 Stop licking my shoes every time you see me.
@@ -574,7 +574,7 @@ Then do something entertaining.
 Gambling is forbidden...! It’s not my fault...!
 How about we see a magic trick?
 I’ve never done magic before! I can’t do it!
-Do some magic!
+Do some magic!|Blilililing!
 If you show mercy when collecting, they’ll start taking advantage of you and won’t return the money.
 From... ngh... this cloth... ghh... comes... a flower...!
 You must be extremely thorough.
@@ -676,7 +676,7 @@ Kid, we’re running short on manpower. It’s about time you learned how to shu
 One day, the Chief says this as she opens a new pack of cards.
 This is called a riffle shuffle. You split the deck in half and point the top corners towards each other, then shuffle the cards together in an alternating pattern.
 Sounds cool.
-That’s a
+That’s a |shotgun| shuffle. It’ll damage your cards.
 And when you split the cards into multiple piles and reconstruct the deck, it’s called a strip shuffle.
 Usually two riffles, one strip, and one more riffle is enough to get a good mix. Can you do it?
 Nope.
@@ -703,7 +703,7 @@ If we don’t do it properly, it won’t be a fair game.
 Exactly. It’s all for the sake of a fair game.
 You say that, but...
 The Chief is skilled with her hands, and not least with card tricks.
-Once you can do this, you’ll be ready to learn how to make it
+Once you can do this, you’ll be ready to learn how to make it |un|fair.
 Listen, cheating in a casino ain’t a one-man job. It’s a team effort, that’s the basic rule.
 So, make sure you can at least cut the deck properly without holding us back. Got it?
 Got it.
@@ -921,7 +921,7 @@ Well, one million yen can disappear surprisingly quickly, you know?
 ......?!
 Are you that interested in me, dear Shuichiro?
 I can’t find the words to respond.
-Well, if you
+Well, if you |are|, then you only had to ask
 She chuckles and leans in close to my ear.
 ...How about I invite you to an interesting place, this evening...?
 (END)

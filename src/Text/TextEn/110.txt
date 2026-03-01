@@ -117,7 +117,7 @@ Get back, Chief!
 She charges towards us swinging something.
 Move, you moron!
 I jump in front of the Chief, but she yanks me by the neck to pull me back.
-Ngh! Hah!
+Ngh! Hah!|Ngh!
 A roundhouse kick meets the attacker’s head.
 She spews up bile as she gets knocked back several meters.
 Something falls to the ground.
@@ -197,12 +197,12 @@ You’re... oh, the new butter dog...
 Captain Yugao gives me a sarcastic little smile.
 Looks like you got yourself a clever dog, huh?
 ......
-But you’d better not overstep, now,
+But you’d better not overstep, now, |Chief|. This is a prison; there aren’t many people who’ll stand up for you. There’s a chance...
 ...someone might actually stab you in the back. Now, you’ll have to excuse me.
 The Chief simply takes it, her eyes remaining closed.
 Captain Yugao heads out with the SST forces, returning to the guards’ dorm.
 Why did you protect me? If you hadn’t said anything, I would’ve been punished.
-Don’t get the wrong idea. What good would it’ve done us for you to get punished? But you
+Don’t get the wrong idea. What good would it’ve done us for you to get punished? But you |do| owe us one.
 It seems that the Chief gets what I was going for.
 Why did that girl attack us? Once you figure out her motive, come tell us right away. Do us a solid... okay, officer?
 She says that in a low, reverberating voice to seal the deal.
@@ -236,7 +236,7 @@ If something similar ever happens again, I’m sure I’d do the same.
 It’s what’s necessary to create my game.
 Where does that fucking passion come from? Heh.
 The Chief laughs pleasantly at the folly of youth, even though I know we’re about the same age.
-First learn some self-defense,
+First learn some self-defense, |then| you can talk. You’ve got an older sister too, don’t you?
 True, I don’t want to make her sad.
 Good. Besides, I’m used to this kind of shit. I’m the daughter of a yakuza boss, I’ve been practicing not gettin’ kidnapped since I was a kid.
 I had no idea you had such experience.
@@ -312,7 +312,7 @@ They’ll drag you out somewhere secluded and beat the shit out of you or fuckin
 That’s scary.
 And the Chief ain’t your regular yakuza. She’s the head of the Japanese Chivalrous Union Kyushu Branch.
 Is that impressive?
-You dumbass! It ain’t just
+You dumbass! It ain’t just |impressive|! You got any idea how dangerous it is to stand at the top of all the thugs in Kyushu?
 Is it really that dangerous?
 Even when she was trying to get the Kyushu branch together, it almost came to an all-out war, but she went around and convinced everyone to get on board.
 So yakuza don’t always make decisions with violence.
@@ -399,7 +399,7 @@ If I want to continue to work as a mediator, I’m going to need to learn how to
 Martial arts make people strong. I want you to put in the effort to be a bigger man.
 I figure I shouldn’t have trouble picking this up, since it’s probably not real karate.
 This is called Kazan Shingan Style. It comes from the Tokyo HQ of the union the Hatae Clan is a part of.
-They pass it down through the Kazanin family, and it’s not strictly based on karate. I don’t know all the details, but I think it pulls a lot from some Chinese fist style, too
+They pass it down through the Kazanin family, and it’s not strictly based on karate. I don’t know all the details, but I think it pulls a lot from some Chinese fist style, too—|fanzi| or something.
 I got sent out to train with them when I was a kid. There was a good-natured girl who took care of me.
 Apparently, even the Chief used to be a kid.
 Is that why you talk the way you do?
@@ -423,9 +423,9 @@ Apparently, I’ve got a knack for this.
 I might be able to master this, I think to myself.
 Now, this is important. The key to Kazan Shingan Style is the breathing.
 The breathing?
-Hold in your breath, then let it
+Hold in your breath, then let it |explode| out. Not the most modern theory, but that’s the basic idea.
 I’m good at anything with ‘ex’ in its name.
-I’m 
+I’m |ex|tremely good at it.
 That’s why new students usually start off with building their lung capacity. If you can’t keep breathing, you can’t hit for shit.
 I feel nothing but confidence.
 That right... How about you take a look at the pond then.
@@ -522,7 +522,7 @@ All right, then do some forward thrusts while you inflate that! Try to focus on 
 Yes, ma’am!
 Don’t you fucking go easy, you piece of shit! Put your back into it, pussy!
 Unf! Unf! Unf!
-A man doesn’t fucking go back on his word. You said you’d do it, so
+A man doesn’t fucking go back on his word. You said you’d do it, so |do it|!
 Unf! Unf! Unf!
 The Chief passionately teaches me.
 She’s a very good teacher, I think to myself.
@@ -585,7 +585,7 @@ The condom inflates instantly and then pops into a million pieces.
 Wow.
 Now, ask me any question.
 Where do prisoners kiss?
-They start with the clothes. Prisoners
+They start with the clothes. Prisoners |always| respect the pecking order.
 Wow.
 You’ll never get even a peck, though, ’cause you don’t wear clothes.
 But you kissed me indirectly, just now. You put your mouth where mine was.
@@ -682,7 +682,7 @@ We’re able to ask around as we do our patrols.
 Yeah, I guess it’s true that I was admitted at the same time as 0221.
 But there are some inmates that don’t like that.
 Can you tell me about her?
-I got nothin’ to say to some prick who shows up and starts sniffing around.
+I got nothin’ to say to some prick who shows up and starts sniffing around. |Hate| that type, if you catch my drift.
 People don’t like it when we use our position to pry.
 Uncooperative prisoners like this one who hurl insults around are not uncommon.
 If you’re not gonna drop this... I could introduce you to these.
@@ -910,7 +910,7 @@ How long can you hold it?
 Thirty seconds, max.
 That little?
 As I have no choice, I decide to relieve myself in the grass.
-So a chastity belt
+So a chastity belt |isn’t| a level in karate?
 First Officer Yamagishi!
 What is it?!
 You bastard! What are you doing here!
@@ -968,7 +968,7 @@ What is it?
 Does this fall under contraband?
 A chastity belt?
 I-It does, doesn’t it? I mean, it’s a sex item...
-You fool!
+You fool!|Gah!
 This is an orthopedic device that helps stop you from playing with your genitals! It doesn’t fall under contraband. Now go eat breakfast already!
 Sometimes the job calls for mediators to eat outside the cafeteria.
 Since starting this job, I’ve come to learn that there are many different people supporting the lives of the prisoners.
@@ -1025,7 +1025,7 @@ No, nothing like that. She said that talking would be against the rules. Now she
 Oh! So that means...
 ......?
 ......?
-Yeah... Pretty sure we’re dealing with
+Yeah... Pretty sure we’re dealing with |that|.
 Ahhhh...! It’s good to finally be able to take a bath again!
 Cousin Hanada lets out a satisfied sigh as he soaks in the large shared bath.
 Ow. That dick guarding solitary wouldn’t leave me alone. Doing their job all fucking diligently... I got more injuries thanks to them.
@@ -1087,7 +1087,7 @@ She must have planned it.
 Wasn’t she worried about the guards?
 That’s what makes her so smart. She’d already gone out and found a prisoner who was a good cook, so she had somebody all lined up to replace the bitch she took out.
 The food quality went up, so the guards and prisoners were all happy. The new head cook was a saint who wouldn’t hurt a fly, and the Chief’s reputation soared. Just wickedly well played.
-And
+And |that’s| how a certain weak prisoner who was always getting picked on by the former head cook took her old boss’s place... and that’s why she swore her loyalty to the Chief.
 Apparently, that prisoner was Cousin Umezu.
 There are fewer people who make fun of the Chief now, but there will always be people who want to fuck with people who stand out. Meaning, she made more enemies too.
 But the Chief would always stand up for what was right, and offered a helping hand to any prisoners in need.
@@ -1190,7 +1190,7 @@ I thought you wanted me to join the yakuza.
 If that’s what you want to do, then I’ll be the first to welcome you.
 But you need to be mentally prepared to become a yakuza. Especially these days.
 As I said before, it’s not about what’s best for you, it’s about living by a code. Us yakuza care more about that than our lives.
-You’ve gotta have
+You’ve gotta have |ninkyo-do.| Without it, you’ll never be a real yakuza.
 That’s why if this is just a passing interest, then you’d be better off staying in your lane. Do what you can within the limits.
 With that, she focuses back on her sketching.
 (END)
@@ -1488,7 +1488,7 @@ This feeling I have is apparently fan worship.
 You think about them all the time, and looking at them makes you gush with estrogen. Then that’s definitely fandom.
 I’ve gotten more jacked recently, so I think I’m more gushing with testosterone if anything...
 Kurebayashi’s argument was convincing.
-Whenever even I
+Whenever even I |think| about my idol, I see a ray of light beaming inside this dim prison, my dry skin becomes more supple, and my whole body shines with a radiant glow!
 Who is your idol?
 None of your business.
 You wanna fucking go, bitch?!

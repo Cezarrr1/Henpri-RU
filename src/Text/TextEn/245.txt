@@ -30,7 +30,7 @@ Yes... I understand.
 Good. You’ve become more perceptive than before.
 Thank you. Hm... May I ask one question?
 What is it?
-What would happen if... you were to determine that those two...
+What would happen if... you were to determine that those two... |aren’t| right for their positions?
 A foolish question. This is essentially a test to gauge their suitability. If they fail the test... Well, you understand, right, Himeru?
 Y-Yes, ma’am!
 I involuntarily shrink.
@@ -94,7 +94,7 @@ Act hostile. Please, Officer Yamagishi.
 I’m well aware of that! Or did you not hear me?!
 It might be over.
 Excuse me.
-What...?
+What...?|Hey! We’ve got visitors! Hurry up and handle them, all of you!
 EEP?!
 Hopeless.
 She was already bad, but now that Crappymori is here, she’s somehow gotten even worse.
@@ -104,12 +104,12 @@ HOW DARE YOU TALK TO A PRISONER LIKE THAAAAAAT?
 EEP?!
 Shouting so much, it’s like your eardrums will burst open before your hymen does!
 What? Explain yourself, right now!
-GRAAAAAAAAAAAA
+GRAAAAAAAAAAAAA|AAAAAAAAAAH!!!
 EEEEEEEEEEEEEEEEEEEEEP!!!
 Shut up already! What brings you here, Ms. Eep? It better be something good, or I’ll tie your sorry ass to a boulder and throw you into the sea!
 HYEEEEEEEEEEEEEEEEEEEEEEP!!!
 I’LL FUCKING END YOU!
-EEEEEEEEEEEEEEEEE
+EEEEEEEEEEEEEEEEEE|EEEEEEEEEEEEEEEEEEP!!!
 YAMAGISHI!
 A roar echoes, and the reception room falls into silence.
 I don’t need beasts in my organization. You’re disturbing my work. Go cool your heads outside. Numbers 0720 and 0721, you too.
@@ -165,7 +165,7 @@ Uh... um...?
 She was a fan of yours. Every time a new poem was published in the newspaper, she’d come to me saying how amazing it was.
 Oh... I...
 M-Much... obliged...!
-Haha, don’t be ashamed. I made her a promise, you know? That I’d be a
+Haha, don’t be ashamed. I made her a promise, you know? That I’d be a |good| prison guard.
 Isn’t it ironic? What I’m trying to do now is the opposite of being a good correctional officer. It’s not something you should do, making promises you can’t keep.
 ......
 Sonya... to me you’re a... very... good correctional... officer!
@@ -173,7 +173,7 @@ Really...?
 We’re back. Everything okay?
 Welcome back... Yeah, everything’s... fine.
 I, Himeru Yamagishi, have returned ashamed!
-I didn’t know anyone could say that and
+I didn’t know anyone could say that and |mean| it.
 Officer Yamagishi.
 Yes, ma’am!
 In the future, when we have visitors... it would be helpful if you could just stand quietly.
@@ -291,7 +291,7 @@ Beyond the wall, there’s a path only meant for us.
 Shall we, Exhibitionist?
 Take beautiful shots, Voyeur!
 We enter the duct, one half after the other.
-Good luck, have fun!
+Good luck, have fun!|Good luck, have fun!
 (END)
 Whoa... Is that Sex River Prison? It looks huge up close!
 I’d never thought I’d get to see that prison filled with perverts from all over Japan myself... I’m so lucky, I think?
@@ -314,7 +314,7 @@ Although it’s highly unlikely, if any trouble were to occur, the Correctional 
 Hard to believe that she’s the one plotting to stir trouble.
 And she’s not the only one to harbor such schemes in her head.
 All three captains responding with applause are plotting against each other.
-I’m the Obscenity Ward’s deputy warden, Captain Sofiya Shikolenko. From now on... I will make you
+I’m the Obscenity Ward’s deputy warden, Captain Sofiya Shikolenko. From now on... I will make you |inmates| realize how terrifying a place like this prison can be...
 Sofiya Shikolenko, deputy warden of the Obscenity Ward and my sister-in-law, shares our goal.
 I am Captain Julia Agatsuma of the Sex Crimes Ward. In your leisure time or on your days off, you may use this gym to help alleviate the lack of exercise you get in your cells.
 We use this gym for entertainment events or external performances as well. Last year, former comedian Prison Chiemi came to pay a visit.
@@ -372,7 +372,7 @@ Huh?!
 ......!
 It happens in the blink of an eye.
 Suddenly, a figure leaps out from among the participants. The SST immediately subdues them.
-What’s...? What’s going on?
+What’s...? What’s going on?|I don’t know... Hey, isn’t that a member of the special security team?|Hey...! That person has a gun!
 The situation unfolds quickly.
 Perplexed murmurs spread in an instant.
 Target captured. Weapon disarmed.
@@ -393,13 +393,13 @@ Then, she applauds.
 Oh! I see, that’s your aim, dear Hazuki!
 The conclusion Sister Julia made has already been predicted by Sonya.
 Yugao faked an attempt on her life to frame Sister Julia for the crime.
-(Foolish even for a fool. I’m not stupid enough to let a scheme like that succeed)
+(Foolish even for a fool. I’m not stupid enough to let a scheme like that succeed)|—or so Julia is thinking.
 Answer me, Hatae woman! Who told you to target me?
 She intends to draw the name Julia Agatsuma out of my sister’s mouth.
 Assumptions compound on assumptions, swirling into chaos.
 They’re about to sink much deeper into the swamp.
 What are you talking about, Ms. Agatsuma, Ms. Yugao?! You promised to give me my brother back if I killed the warden, didn’t you? What’s the meaning of all this?
-Huh?
+Huh?|Huh?
 Their bewildered voices overlap.
 Wait, kill her?!” “No... this must be some kind of joke, right...? Captain...” “You idiot! Look into that woman’s eyes! She’s totally serious!
 The murmurs of the participants, once quieted, now surpass the previous commotion by far. Some even begin to scream.
@@ -408,7 +408,7 @@ The situation is critical. If even one person flees the scene, afraid, this enti
 The surface tension is so intense that it feels like something is about to burst open.
 The Ahegaos, despite their high academic achievements, are unable to grasp what’s happening.
 And there it is—there’s the crack.
-We can’t leave such a lovely crack lying around. Manners demand such angles be 
+We can’t leave such a lovely crack lying around. Manners demand such angles be |exploited|.
 Captain Agatsuma, Captain Yugao, what’s the meaning of all this?
 Oh, poor Sister Julia, poor Yugao. In the end, being a captain is nothing compared to being a warden.
 No matter how much they dislike it, a subordinate must answer the demands of a superior.
@@ -418,7 +418,7 @@ Her long, long life until today... is culminating in the ultimate act of power h
 However, Sister Julia starts laughing.
 Hahaha! You should ask her!
 Everyone’s attention turns to my sister, restrained by the SST and crawling on the ground.
-Ugh...! Ngh...
+Ugh...! Ngh... |cough|, ugh...!
 Cut the theatrics! Who the hell are you?
 Frustrated, she lifts my sister’s chin with the end of her cane and stares at her, her eyes filled with anger.
 Haa... haa...
@@ -435,7 +435,7 @@ Who could have imagined a drone loaded with dynamite exploding in midair?
 That woman said... something about dynamite...
 Those words prove decisive.
 Finally, the surface tension reaches its limit.
-Help! Save me! Someone help me!
+Help! Save me! Someone help me!|No! I don’t want to die yet!|I can’t stay in this prison! I’m going back to the ship!
 Everyone’s self-control shatters, and they fall into complete panic.
 Even those who were trying to maintain composure until now are engulfed by the surrounding anxiety and chaos.
 Hysteria spreads from one person to another.
@@ -462,7 +462,7 @@ Huh?
 The woman with the gun was in cahoots with the captain of the guards over there, right?! In other words...
 What...?
 She’s the one who caused the explosion...?!
-Who...!
+Who...!|PRECISELY!
 Among the chaos, a resolute voice echoes across the yard.
 Agatsuma and Yugao are villains, surpassing even the prisoners confined in this prison!
 Exploiting this chaos, they plotted to assassinate Warden Mizushiro, and wipe out everyone involved, burying the truth in darkness!
@@ -470,7 +470,7 @@ A... prisoner...?!
 However, evil doesn’t prosper in this world! We have now exposed your despicable plot!
 ......
 We will deliver judgment on behalf of the heavens!
-Oh... I see... It was you, it was
+Oh... I see... It was you, it was |all| you...
 I’ll fucking inhume you, baby.
 Hahahahahaha!
 SST! Capture them!

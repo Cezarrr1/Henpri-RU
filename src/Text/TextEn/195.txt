@@ -5,7 +5,7 @@ We’ll both be in big trouble.
 I think she also understands that.
 Are you done saying what you wanted to tell me?
 Yes.
-Did you go to such lengths just to mediate between me and...
+Did you go to such lengths just to mediate between me and... |her|?
 Yes.
 You’re crazy.
 No, I’m very logical. If need be, I can always put the blame on you.
@@ -264,7 +264,7 @@ Driven by her urges, she almost beat that criminal to death.
 What a pity...
 With this job, I’ve come to realize that people don’t really hold out hope for the rehabilitation of criminals.
 Is that so?
-People just want criminals to be villains, people they can point their fingers at. Examples of how
+People just want criminals to be villains, people they can point their fingers at. Examples of how |not| to be who play their roles until they die.
 It’s not like I can’t understand that feeling. But I see it firsthand every day...
 Even among criminals, not everyone is the stereotypical villain committing crimes just for fun.
 There are also the ones like Togame.
@@ -524,7 +524,7 @@ Why?
 She didn’t say that much. So, I want to hear your opinion.
 Huh...? If I knew what she were thinking, would I have gotten pushed away like I did?!
 Maybe not.
-Are you trying to reopen my wounds by talking about how things
+Are you trying to reopen my wounds by talking about how things |should| have gone again?! Stop kidding me...!
 Kurebayashi is rather aggressive today.
 (END)
 Hey! Do you guys think it’s the right time and place for a lovers’ quarrel?

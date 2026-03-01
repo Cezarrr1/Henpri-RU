@@ -67,7 +67,7 @@ Just put on a carbon monoxide filter mask. You’ll be fine.
 I put the gas mask-like device over my mouth and wait for the gas density to fall.
 Humans are surprisingly adaptable creatures.
 All right, gang, back to work! Let’s give it a good last shot until the shift’s over!
-Yeahhh!
+Yeahhh!|Urahh!|Gyahh!
 Nowadays when we return to the surface, the miners have to go through a simple inspection.
 Today, I smashed a rock this big.
 Me, I found two ammonite fossils.
@@ -201,7 +201,7 @@ Just bring it out. We all want to avoid trouble here, right?
 B-But you need permission to...
 Do you think I’m asking?
 But, w-well...
-OUT WITH IT, NOW!
+OUT WITH IT, NOW!|H-Here it is, ma’am!
 This is how we negotiate in the grown-up world.
 Brute force.
 Man, when the Chief yells... damn.
@@ -707,7 +707,7 @@ Forged me strong enough to believe in myself!
 Now, with the most rational method...
 ...I’m getting her out of there!
 I dig and dig away at the wall in front of me.
-Whether it’s 
+Whether it’s |possible| never crosses my mind.
 I snatch at gravel, toss out pebbles, and create a path.
 ......!
 A massive rock appears before me.
@@ -767,7 +767,7 @@ I’m surprised you can still walk in public.
 Ghhhhhhh!
 I’ve said it once, and I’ll say it again.
 Wait, no.
-I’ll kill you” was too lacking in wit
+I’ll kill you” was too lacking in wit.
 Let me make it more Tulip Prison-style.
 Get inhumed, baby.
 (END)

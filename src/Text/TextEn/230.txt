@@ -29,7 +29,7 @@ She quickly turns away and resumes writing.
 For some reason, her hand keeps repeating the same movement.
 Curious, I peek over her shoulder.
 She wrote:
-Aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa|aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa|aaaaaaaaaaaaaaaaaaaaaaaaa
 What’s this code?
 It’s how I express my current emotion.
 Aaaaaaaaaaaaaaaaaaaa?
@@ -82,7 +82,7 @@ But...
 She sighs deeply, looking down.
 I really... haven’t grown at all.
 Why?
-I selfishly imagined a relationship in my head, insisted on that fantasy, and assumed it was absolute reality...
+I selfishly imagined a relationship in my head, insisted on that fantasy, and assumed it was absolute reality... |again|.
 Just saying that we’re halves doesn’t mean I understand everything about what you’re thinking from A to Z.
 Yet, here I am again, thinking I’ve figured it out... repeating the same mistake I did with Sis.
 Are you worried?
@@ -154,7 +154,7 @@ It hits differently.
 Yeah... Well, anyway. I said your name. Shuichiro, please call me by my name too.
 Noah.
 She looks truly dissatisfied.
-Zero effort. Well,
+Zero effort. Well, |that’s| anticlimactic... Can’t you build up the suspense a bit more?
 ......
 Noah.
 Nope, still not feeling it.
@@ -183,7 +183,7 @@ No, thank you. It’s too long.
 What are you two whispering about?!
 Eep!!!
 She jumps like a cat seeing a cucumber.
-You haven’t forgotten, have you? Don’t you
+You haven’t forgotten, have you? Don’t you |dare| try something just because you’re in the same cell! I’ll send |both| your asses to solitary, I swear!
 I... I’m sorrorrorrorry...
 She starts speaking in a strange voice, twirling her hair between her fingers.
 I completely forget about Sofurin. Seeing Noah flustered like this gets me completely absorbed in watching her.
@@ -285,13 +285,13 @@ Oh... did you have such a maiden’s heart?
 Ahhhhhh!
 We hear a muffled scream.
 Cute!
-You chose
+You chose |her| as your lover...?
 I can’t think of anyone but Noah. Every cell in my body craves her, even now.
 Oh... I see...
 So, I’m sorry, Captain Shikolenko. But I can’t date you.
 Hey, Chisato. Do you remember me ever confessing to this guy?
 N-No...?
-Phew. He rejected me so naturally, for a second there I felt like
+Phew. He rejected me so naturally, for a second there I felt like |I| was the crazy one.
 Also, please stop calling me Captain Shikolenko outside working hours. It feels like work, and it gets on my nerves.
 ......
 Sofurin.
@@ -490,7 +490,7 @@ Between the Chief’s influence and Mizushiro’s, even Agatsuma won’t last lo
 Maybe I can still make it...
 I’ve still got some time before the afternoon shift.
 In prison, you never know what might happen. I gotta get her the info as soon as possible.
-Wasn’t expecting to hear something like 
+Wasn’t expecting to hear something like |this| today, I tellya.
 This could...
 Hey! You!
 Eep!
@@ -505,7 +505,7 @@ Guess that was all she needed, ’cause Yamagishi walks away without any hassle.
 Phew...
 That was scary.
 I let out a sigh of relief as I watch her back fading.
-Guess she
+Guess she |can| get through a sentence without a sex reference...
 I walk through the prison, passing by a few people.
 Of course, the guards are still watching, but there’s fewer people around here.
 Like Shuichiro said, the Hatae Clan’s got a problem with Agatsuma’s faction.
@@ -613,7 +613,7 @@ Huh?
 The Chief bends her knees and squats in front of Ozawa.
 Well done, Ozawa.
 Huh... Chief?
-You
+You |did| infiltrate her circle to outsmart that scumbag Agatsuma, right?
 Ah... hm... I...
 In secret, too, to keep the family out of it. That takes guts.
 You planned to reveal everything once you had a knife at her throat, right?
@@ -627,7 +627,7 @@ There you have it. Game, set, and match. Too bad, but the victory is mine.
 What do you think?
 She’s a true yakuza.
 Hehe, I am.
-You call that
+You call that |ninkyo-do|? Is that yakuza honor? Playing dirty, is what I call it.
 It’s not dirty. I won the bet, after all.
 But if I start giving orders to Ozawa directly, Agatsuma might notice he’s a double agent.
 Feel free to use him if you need anything. You two are quite promising.

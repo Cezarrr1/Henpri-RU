@@ -144,7 +144,7 @@ This time, I’m not running down a path with no destination.
 I’m running to my goal.
 I’m running to them.
 I’m home, everyone!
-Welcome home, Shuhei!
+Welcome home, Shuhei!|Welcome back, Shuhei!|Good to see you, Shuhei.
 That was the name of our game’s protagonist we decided together.
 (END)
 .........
@@ -246,7 +246,7 @@ Did she plot this whole thing out and start the uprising? Or did she just happen
 Shape up. Improve yourselves. Work to rehabilitate those twisted minds of yours. As long as you’re good little inmates, your lives here won’t be torture.
 The answer? No one wanted the post after the riot.
 Don’t make us do more than we have to.
-Because anyone who took it was going to get hit hard if 
+Because anyone who took it was going to get hit hard if |he| ever spilled the beans.
 Aha!
 Either way, her loyal dog was wagging her tail at her master’s return.
 You’re probably wondering how life in the prison changed after that.
@@ -280,7 +280,7 @@ Pff, you absolute buffoons. He stripped his clothes off before diving into the s
 When you think about it realistically, that’s not a gauntlet anyone could live through.
 But they checked through all the coal and didn’t find him, right? No bodies have washed up, either, so he’s got to be alive!
 Yeah. This is Exhibitiman we’re talking about!
-There was something about him made people imagine that maybe, just maybe, he 
+There was something about him made people imagine that maybe, just maybe, he |did| pull it off.
 Like hell Shuichiro’s dead!
 Lemme tell you, that guy’ll pull his ass outta any situation, no matter what!
 Some people swung hard for that idea.
@@ -397,12 +397,12 @@ The prison’s lasting scars are terrifying indeed.
 But, well... there’s no fearsome guards are obnoxious rules out here.
 Yeah. We won’t get needlessly yelled at for doing, well, any mundane thing.
 Y-Yeah. We’re... o-on the outside.
-Eheh, eheh, eheh, eheheh!
+Eheh, eheh, eheh, eheheh!|Ahahaha!|Wahahaha!
 Now I can adjust my crotch whenever I want!
 I-I don’t have to get yelled at if I re-adjust m-my bra, either!
 We don’t need to have our underwear inspected every day! No more wet dream announcements, no more getting beat down for masturbating!
 Ahahaha!
-Eheh, eheh, eheh, eheheh!
+Eheh, eheh, eheh, eheheh!|Ahahaha!|Wahahaha!
 We’re all so happy over the most basic, mundane things.
 We’re finally free.
 And you know what’s really the best? The food!
@@ -503,7 +503,7 @@ Selling the game itself is important, but seeing players’ thoughts is more imp
 As of now, we have no way of finding out how people felt after playing the game.
 What impressions do people out there have of the work we put our souls into?
 Not knowing that, frankly, sucks.
-But, well, if I
+But, well, if I |had| to look for a problem with the game itself...
 With a few taps of her keyboard, Noah shifts the screen.
 I’d probably start here?
 She opens up the administrator screen for developers.

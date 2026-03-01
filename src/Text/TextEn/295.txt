@@ -16,7 +16,7 @@ I employ various tricks to ensure that Sofurin and Kurebayashi can be alone.
 Let me through! She needs to see a familiar face right now!
 There’s a patient in here! Please be quiet!
 When someone is bedridden, it can be lonely! Surely she needs someone to visit her!” “She’s not in good shape! She probably doesn’t want you to see her like this, so no visits!
-Please!
+Please!|I said, no visits!
 No matter how much you ask, I can’t let you meet her...
 I brought a lot of entertainment to pass the time!
 No means no!
@@ -49,7 +49,7 @@ If you panic, she’ll feel uneasy. So, stay calm and handle it confidently.
 Chief...
 Kurebayashi avoided a mental breakdown thanks to the Chief’s advice.
 Here’s today’s meal... Can you eat?
-Cough, cough
+|Cough, cough|...
 Ah, ah.
 Ugh, ugh, bleh...!
 Aah...
@@ -184,7 +184,7 @@ She had the ability to control anyone by having them hear her voice (directly or
 The reason why Mating Press Man lost his mind was also because he heard her voice when he went to make a deposit the day before.
 The more sickos with powerful abilities there are, the more convenient slaves I have!
 She took out her work stress by controlling others and making them kill, keeping her hands clean.
-Die, die, die! My shitty boss, my Karen-ass customers, my smug-ass coworkers,
+Die, die, die! My shitty boss, my Karen-ass customers, my smug-ass coworkers, |everyone|! Weak-ass yen, high-ass taxes, goddamn internet, this fucked-up society, the whole fucking thing!
 Until a while ago, Protagonist (temp) thought the same way.
 Not anymore.
 ...
@@ -290,7 +290,7 @@ I wasn’t able to pull it off immediately, either. We all had to get dunked int
 That sounds like it could be torture.
 It was how you expressed love back where I’m from.
 Is this also how Commander Ohtabe expresses love?
-Listen, no matter how much your lungs are hurting, you
+Listen, no matter how much your lungs are hurting, you |never| close your eyes. That opens you up.
 Lesson learned, either way—everything is practice.
 I’ll make five minutes my goal, then.
 Good, we’ll work to it. Let’s get stronger—the two of us.
@@ -683,7 +683,7 @@ Like this? This?
 Now you’re talking. When you want to fully neutralize a target, you hold your breath and let out multiple exhales while you...
 Someone, help!
 Any threats to the Chief, we go and nip in the bud.
-Man, I
+Man, I |really| wanted to play yakuza at least once in my life.
 You really pulled it off well.
 T-That was really fun, eheh!
 ......
@@ -843,7 +843,7 @@ I’ll find him and hit him with piss shot from halfway across the prison!
 They don’t know about the pipes yet, Shuichiro!
 Yeah, but they’re following my sound!
 There are too many to pull a fast one over on.
-Send our people into each ward.
+|Send our people into each ward.| If we find someone’s cell empty and they weren’t at the service, that’s our guy!
 ......!
 I need to get back to my cell, fast.
 If I’m not at the infirmary and am the only one out of my cell...
@@ -952,7 +952,7 @@ That insight of yours... that’s the right answer.
 Hey, wait a second, I was brainwashed too.
 O-Oh, well, I don’t mean to say that you’re stupid o-or anything!
 Sound good, Chief?
-It’s fine, I
+It’s fine, I |am| stupid... I’m dumb enough to throw my future away out of jealousy over my own little sister, ahaha...
 The Chief lets out a heavy breath from her perch in the back.
 Yeah. It ain’t like I can persuade the brainwashed, anyway.
 She puts a hand to her cheek and nods.
@@ -963,7 +963,7 @@ All right, perverts, listen up! Today we’re doing a big clean-up of the island
 As you may know, our island is blessed with convoluted currents, meaning that fishermen’s litter may naturally wash up on our shores! That’s where you come in!
 Don’t even think about trying to run away just because you’ve got no cuffs on, either! Like I said, the currents are fierce and convoluted—they’ll just bring you right back if you try to swim!
 Oh, and if you come across any obscene books or adults-only magazines, you are not to touch them under any circumstances! Think of them as live bombs, and alert an officer to handle it!
-I repeat, you are absolutely forbidden from touching any pornographic books! Any adult books, we will deal with! If you touch any porno mags you find,
+I repeat, you are absolutely forbidden from touching any pornographic books! Any adult books, we will deal with! If you touch any porno mags you find, |you will explode|!
 I always have the hardest time paying attention to what Officer Yamagishi says.
 Right?
 You there! What the fuck do you think you have your hands on?!
@@ -1002,7 +1002,7 @@ All right, it’s kind of funny, but...
 ...are people really going to go out of their way to snap a picture of a rhino beetle?
 They absolutely would!
 W-Whoa, what’s your problem?
-We’re talking about the Japanese rhino beetle here! THE
+We’re talking about the Japanese rhino beetle here! THE |kabutomushi|!
 All right, all right, sorry, I didn’t get it.
 With that, we begin Operation Bug Bug.
 Isumi.
@@ -1114,7 +1114,7 @@ I think it’s fine... It’s pretty cute.
 Yeah. It is pretty cute.
 I was planning on buying it when I got my bonus!
 I think it’s pretty nice.
-No way, there is
+No way, there is |no| way this photo can be this cute! I want them to bury me with this one!
 And, well, someone wants to be buried with it.
 I’m never letting you use my tablet again!
 Unfortunately, it doesn’t look like there are any posts about our beetles.
@@ -1224,7 +1224,7 @@ I think I have a cavity.
 I-I said there’s not much I can do about it! Not much more than tell you t-to brush your teeth or whatever!
 When’s the next time the dentist will visit?
 Y-You know, you coming to tell me is just funny, more than anything! L-Like, you expect me to care how much pain you’re in? M-Music to my ears, really!
-When’s he coming?!
+When’s he coming?!|In a mooooooooooonth!
 Even when I’m enjoying a pleasant conversation on off-hours, I feel someone watching me.
 ......
 Snff! Nnn! W-Why do I have to get yelled at...? I-I hope you die of cavities!

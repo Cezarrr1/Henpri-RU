@@ -82,7 +82,7 @@ Yes.
 Roger.
 Huh, what?! W-Why’d you pop out of the darkness, SST boss?! I-I haven’t done anything, really!
 While it is true that I strengthened the warden’s grip on authority...
-Sometimes, what’s true isn’t what
+Sometimes, what’s true isn’t what |needs| to be true.
 ...I built up power on my own during that time.
 Gyahhhh! I swear, every time I talk to that kiiiiiid!
 I should be able to prove a match for her.
@@ -268,7 +268,7 @@ It would be no surprise if this had been prepared beforehand.
 The SST itself saw a drastic staff change too.
 The SST is a contract company from the outside to begin with, so all you need to change it is the division captain’s go-ahead.
 Warden Mizushiro ordered Officer Yamagishi to conduct a large-scale replacement of the security team’s personnel.
-The team’s been changing, bit by bit. We’re from the same company, but different departments. I’ve only met them once, but they’re... special. They charge a lot, but they’ll do
+The team’s been changing, bit by bit. We’re from the same company, but different departments. I’ve only met them once, but they’re... special. They charge a lot, but they’ll do |anything|.
 Ultimately, the team ended up consisting mainly of personnel in the warden’s pocket.
 My title of commander doesn’t have any meaning anymore, either. You’d best think of everyone on the team as being under the warden’s control.
 Commander Ohtabe’s orders no longer have any authority.
@@ -532,7 +532,7 @@ How if you’re up against someone you’re never going to reach an understandin
 What I want to do most. What I have to do most.
 Is complete the game.
 Next comes making everyone in Team 69 happy.
-You...
+You... |will| run, right?
 After that comes not making this person, so much like my sister, sad.
 I will.
 My path is clear. I will love them all.

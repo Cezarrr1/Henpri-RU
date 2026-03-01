@@ -33,7 +33,7 @@ In other words, it all depends on the information.
 I swallow my saliva.
 The sound of my heartbeat is speeding up.
 Damn it. I’m always so nervous around her.
-I’m supposed to be here to play 
+I’m supposed to be here to play |her| this time, but look at me.
 No wonder I never get promoted.
 Shuichiro and Drone Girl fooled me so easily.
 Come on! I’m carrying the crest of the Hatae Clan too.
@@ -66,9 +66,9 @@ What’s that about? If someone from their little gang tried to kill me, all it 
 That’s true... well, it is! But you see, that’s how the underworld works! I’m also a gangster, so I understand!
 We’re not afraid of going to jail or dying! What we can’t deal with is being looked down upon. It doesn’t matter what punishment we receive...!
 That’s why it’s not a joke! They’re seriously coming to... get you, Sister Julia!
-Hm... I see. It
-Did she just say it’d be 
-If I got killed, I bet I’d be 
+Hm... I see. It |would| be a bit inconvenient to board the Heaven Express from in here.
+Did she just say it’d be |a bit| inconvenient?
+If I got killed, I bet I’d be |majorly| bummed.
 She’s still pondering, eyes and mouth wide open.
 She’s creepy, no matter what she does.
 But pushing it any further would only raise suspicions.
@@ -112,7 +112,7 @@ Why are you being so secretive?
 Well, actually...
 I deliberately create a pause.
 Yugao’s involved.
-Dear
+Dear |Hazuki|... Yugao?
 As expected, her expression changes instantly.
 Your plans have been weakening the Hatae Clan every day... and Yugao took advantage of that opportunity.
 She tried to get the family to collaborate with her to crush you...
@@ -124,7 +124,7 @@ I don’t know what’ll happen if I get caught, but it feels great.
 Dear Hazuki collaborating with that thug seems a bit out of character, doesn’t it?
 Is it? I actually think it’s quite like her... She just has to quietly approve the yakuza’s participation in the exhibition. Nothing more.
 And let the thugs take care of everything... keeping her hands clean, right?
-Hehehe, such a wicked plot
+Hehehe, such a wicked plot |does| fit her pretty well, I suppose.
 Yes, that’s the idea!
 And the punks agreed to that?
 The yakuza business has been tough lately... You gotta rely on people for everything these days.
@@ -324,7 +324,7 @@ She’s been doing all sorts of weird tasks to suck up to the guards.
 Despite being cheeky and having a textbook shitty personality, she avoids going against those who are stronger than her.
 Even if the guards see her holding a drone, they won’t think much of it.
 Suppose someone does stop her? She’ll stutter something about “a video with the warden’s permission” and they’ll let her go.
-It’s Crappymori, after all. “One of the other guards must’ve pushed off some busy work on her again,” they’ll think, and then they’ll 
+It’s Crappymori, after all. “One of the other guards must’ve pushed off some busy work on her again,” they’ll think, and then they’ll |stop| thinking.
 Even if anyone’s thoughts wander further—it’s Crappymori. Anything she’s involved in is by definition beneath the guards’ attention.
 In a way, that’s her superpower.
 That’s how you crush the seeds of doubt before they sprout.
@@ -353,7 +353,7 @@ I’m... fine here. I won’t... go outside.
 Got it.
 If she says so, I respect her decision.
 Then we’ll have to make a big splash on the day of the exhibition. It’ll also be our goodbye party with Chi and Sofiya.
-Yeah.
+Yeah. |And| a farewell party for Agatsuma and Yugao.
 I hope they’ll cry.
 They’ll probably cry out loud.
 W-We’ll... send them off... laughing!
@@ -382,7 +382,7 @@ Sister Julia...
 ...is dead.
 Oh!
 I involuntarily clench my fist.
-The
+The |nun|... is |done|. Hehe.
 All our schemes and efforts to increase our pawns are paying off.
 Chisato came up with several recruitment schemes for us, too.
 We were right to ask for her help.
@@ -457,7 +457,7 @@ Then, Noah speaks up first.
 Didn’t you tell us to stop making jokes, Sis?
 It’s not my fault, Yugao’s the one who started it!
 It is your fault.
-It felt like she was doing it on purpose, playing You Laugh, You Lose
+It felt like she was doing it on purpose, playing You Laugh, You Lose |everything|!
 I came close too. I almost laughed.
 I wonder how things would have turned out if I had a more expressive face.
 Sorry, Chisato. I said such mean things...
@@ -467,7 +467,7 @@ Hehehe...
 She’s making herself laugh.
 After laughing for a while, Chisato finally catches her breath.
 Haa... phew...
-Cap
+Capt|alabash|... Yugao!
 Hehehe...!
 Noah decides to play with her for a while.
 Even if Sister Julia’s days are numbered, we still can’t write Yugao off. That’s what you’re saying?
@@ -629,7 +629,7 @@ Warden Mizushiro stares at the veiled oracle.
 The sound of the oracle swallowing her saliva echoes loudly in the silence.
 Well, if it’s related to your faith, I can’t say much about this.
 Oh...
-However... If this goes too far, I’ll have to talk to Captain Agatsuma
+However... If this goes too far, I’ll have to talk to Captain Agatsuma |directly|.
 The oracle lets out a sigh of relief but immediately tenses up again at the mention of Captain Agatsuma.
 N-No...! That’s unnecessary... The trial is over... We are done for today...
 She knows she will be in trouble if Sister Julia hears about this.

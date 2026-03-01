@@ -64,7 +64,7 @@ Shuichiro, don’t delete the old stuff. Organize ’em by dates so we don’t g
 - System: Fave voices, config (all), debug
 I can make itemized lists of the work that remains.
 A yukata outfit? Since when do we need all these extra assets?
-- Portraits: variant clothing (1x per chara)
+- Portraits: variant clothing (1x per chara)|- Stills: 6x (whatever the story needs)|- Backgrounds: 5x
 W-Well, we did put in a date scene. Eheh, heh heh...
 - Scenario: Sex scenes & climax (~300KB)
 And lots of checking and revising after that. Voice recording too.
@@ -183,7 +183,7 @@ Quiet down, Number 0720!
 Listen, working this hard is great and all, but...
 Rahhhhhhh!
 Aren’t you, like... a little banged up?
-Haa, haa...
+Haa, haa...!|Rahhhhhhh!|
 On top of that, you’re going to burst my eardrums...
 Sis, I’ve got some super-quality handmade earplugs...!
 L-Looks like he’s always working even when eating and bathing.
@@ -280,7 +280,7 @@ She works as a children’s dentist, leaving her with an attitude towards her pa
 Don’t cut my teeth! Don’t cut my teeeeeeeeeeeth!
 Some kid is screaming on the other side beyond the curtain.
 Gyaaahhhhhhhhh get outta my mouuuuuuuth!
-Gaaaaaaaaaaaaaaaaaaaaaaaa
+Gaaaaaaaaaaaaaaaaaaaaaaaaa|aaaaaaaaaaaaaaaaaaaaaaaaaah!
 You’re kidding.
 Absolutely unsightly.
 No one told me it would be this painful.
@@ -388,7 +388,7 @@ After a deep nod, she adjusts her glasses.
 It may sound surprising, but part of the reason the Ministry of Justice accepted the use of this number was to keep me under surveillance.
 The warden would sometimes mix chats into her lessons, clueing me into all sorts of things.
 What do you mean?
-This is an experimental facility. One would imagine checks and balances are needed, yes? By keeping the facility’s coefficient totals visible, they
+This is an experimental facility. One would imagine checks and balances are needed, yes? By keeping the facility’s coefficient totals visible, they |believe| they have me collared.
 What Warden Mizushiro talks about is always stimulating and interesting.
 I couldn’t write this in particular on the pamphlet, though, I think to myself.
 Now, the criminality coefficient system has another strength. Can you tell me what it is?
@@ -511,7 +511,7 @@ It’s you from... fourteen years ago.
 I’m not a doctor yet. Still, ever since that really nice doctor helped me, I’ve lived my life with the sole goal of becoming one! I’m so happy to be in med school, and I’m going to work my pants off!
 She always wanted to become a doctor, someone who helped a bunch of people.
 Feels like it was forever ago that she told me that story.
-Hey again! It’s twenty-year-old Eriko! I’ve made some great friends, and I enjoy my studies! College rules! There’s one problem, though: med school is
+Hey again! It’s twenty-year-old Eriko! I’ve made some great friends, and I enjoy my studies! College rules! There’s one problem, though: med school is |way| more expensive than I thought.
 I’ve studied a bunch, but I’m kind of out of money. I’ve got my practical training through the morning, so I can’t work... Snff. I’ll probably have to drop out if I don’t think of something.
 So what’ll you do?
 There’s only one thing to do: take out a student loan! But it comes with strings attached? Apparently, I have to work at the university hospital or they won’t lend me the cash.
@@ -528,7 +528,7 @@ I did not.
 Then, a bigwig had an idea. Of course, he thought, let’s have only the wealthy patients transfer to affiliated hospitals, resetting their stay periods!
 They squeezed money out of patients with long stays by bouncing them between hospital A and hospital B.
 Having the same patients coming in and out means extra work. Going over capacity makes it even worse. Things are getting bad, and a lot of the other doctors and nurses are quitting.
-Not to mention that the only ones who could 
+Not to mention that the only ones who could |pay| those constantly-resetting hospital fees were the wealthy among the patients.
 Doctor Higuchi, age twenty-seven. I’ve been insolent enough to complain, repeatedly, asking the hospital to stop discriminating between patients. I don’t realize how naïve I’m being.
 It was my dream to help the sick. I wanted a society where anyone could live healthily and happily. I wanted to be like the doctor who helped me so long ago.
 So I thought that if I worked really hard, everyone would see things my way eventually. I pulled all-nighters more days than not, chugging energy drinks, doing everything I could.
@@ -550,7 +550,7 @@ At some point, I stopped being able to sleep. I couldn’t get food down, starte
 Then, around twenty-eight, I just... had a panic attack. Collapsed right down to the ground.
 I figure she fell into clinical depression.
 My sister told me that happens to people who take their jobs really seriously.
-I had to work, but I couldn’t move. My patients needed me, but I just felt nauseous. I tried to leave the house and I couldn’t stop shaking. For the first time in my life, everything
+I had to work, but I couldn’t move. My patients needed me, but I just felt nauseous. I tried to leave the house and I couldn’t stop shaking. For the first time in my life, everything |scared| me.
 Then, the phone rang. It was my mother. I apologized to her through tears. She spent all that money on me, and this is how I turned out.
 You know what said to me? She told me to run. If people won’t listen to a word you say, then you’ve got to run to protect yourself.
 Hey, that’s what you said before.
@@ -636,7 +636,7 @@ We need to make this exhibition more appealing than all the ones before it.
 This is the libido management program where inmates learn methods of controlling their lusts.
 So we need to actively bring in new elements to get people talking.
 Today, we’ll be training by replacing sexual words with non-sexual words.
-WORD GAME TIME, MOTHERFUCKERS!
+WORD GAME TIME, MOTHERFUCKERS!|YAYYYYYY!
 Plap, plap! MILF!
 Plap, plap! Mother!
 Anything that sounds eye-catching gets a test run.
@@ -709,7 +709,7 @@ It is, but that’s just part of being an adult.
 So it’s normal.
 Normal is good!
 It takes money too.
-This lipstick here was
+This lipstick here was |expensive|. I picked it up because it was high color and reviewed well, but it didn’t really suit me. This one was a Christmas special—reserving it was a battle, I can tell you...
 Looks expensive.
 If you think this is expensive, wait ’til you hear about Agatsuma’s stuff. Everything she had was expensive foreign name-brand stuff.
 She is the heiress of a pharmaceuticals company, after all.
@@ -755,7 +755,7 @@ So like a harem?
 The previous story had the Lustveins disappear and PESP follow suit.
 Without their superpowers, the old PESPers revert to being humble perverts, but able to accept themselves without it becoming a complex.
 So we want to move all that to the Grand Route, but have ’em just beat the regular boss on Heroine One’s route and have a happy ending?
-Y-Yeah, so, Office Lady Boss is being controlled by the
+Y-Yeah, so, Office Lady Boss is being controlled by the |real| big bad, who’s behind everything. The hero works with the three heroines to beat her, and I want that to be... the true ending.
 After all the problems in the story are solved, she adds more.
 True. In our old story, both Heroine Two and Three had a thing for Protagonist (temp), but that was left unresolved.
 W-Would that be okay...?
@@ -1005,7 +1005,7 @@ Work time has come to an end. All inmates are to change out of their work clothe
 You really ARE a psychopath!
 Hey, this isn’t what was in your report beforehand! What’s going on!?
 I’m never doing this again, you hear me?! Never again!
-Everything I can think of” includes barging into the broadcast room
+Everything I can think of” includes barging into the broadcast room.
 O-Okay, it’s time for today’s Hiwako Kushimori’s ‘Lengthened Sentence Radio PP.’ Today, I, Hiwako Kushimori, will be speaking with...!
 ...t-today’s guest, the head of the Correctional Exhibition’s Planning Committee, Exhibitiman!
 Crappymori.
@@ -1014,7 +1014,7 @@ You like idols?
 Uh. W-What does that have to do with anything?
 Do you like idols?
 And I mean, w-why did you barge into my own safe space?
-DO YOU LIKE IDOLS?!
+DO YOU LIKE IDOLS?!|I LOVE THEEEEEM!
 ......
 ......
 Ah.
@@ -1123,7 +1123,7 @@ Yeah?
 So I’m thinking of going with Naked Soft.
 Sounds like a challenging thing to put in the exhibition.
 Can you tell me something you like, Mr. Kugitani? As a reference.
-I think you and I both know how much I love
+I think you and I both know how much I love |this| stuff.
 Cigarette Soft? I don’t think that would work out.
 Something else, huh? Tough call. It’s been forever since I’ve lived life on the outside, so I’ve forgotten most everything.
 He puffs out another bit of smoke with a self-effacing grin.

@@ -91,7 +91,7 @@ Which of us is right?
 You’re both wrong.
 Option C, then...
 It’s not a multiple-choice question!
-The answer is:
+The answer is: |the sea|.
 The sea?
 The most critical part of an escape is what happens after you get outside the prison walls. Once they notice you’re gone, your face will be broadcasted all over the country in no time.
 I remember seeing that on TV as a kid.
@@ -106,7 +106,7 @@ And just when you think you’re safe, they’ll send you right back to the faci
 Well, most people would just get captured while swimming. There’s no way to hide out in the open sea.
 Even if you had some secret plan for crossing the sea, escaping through the wall itself wouldn’t be easy. It’s not like outsiders can get close to help, either.
 I’m sure many folks have thought about escaping, but the more you think about it, the more obvious it becomes. You can’t escape this prison.
-Can’t even
+Can’t even |think| of a good way to do it, let alone actually pull it off...
 Some guys in here even call the facility the ‘Iron Maiden,’ because it locks up sinners and doesn’t let them escape. Pretty clever, huh?
 Hear that, Shuichiro? If you don’t want your sentence to be bumped up again, you better not cause any more trouble.
 Everyone’s a maiden at first.
@@ -239,7 +239,7 @@ I was chosen for the task.
 Oh.
 Just when I thought I was done with my piled-up work...
 That’s unfortunate.
-No, it’s
+No, it’s |entirely your fault.| Now shut up and eat or I’ll write you up for insubordination.
 I follow her instructions and start eating.
 I am being monitored as soon as I get back.
 Now that I think about it, that’s actually pretty convenient.
@@ -271,7 +271,7 @@ I might be able to use her to escape.
 Right... you worked down here, didn’t you.
 Yeah?! Sorry, what?!
 I really didn’t want to come back...
-Move it, beanpole!
+Move it, beanpole!|Eep...!
 Sofurin jumps back as if scalded by boiling water.
 History repeats itself...
 Oh, C-Captain...?! Uh, I... I’m sorry...
@@ -364,7 +364,7 @@ Ha...?!
 Ugh...
 Number 0720! Hey, are you okay?! Hey?!
 I did it.
-No, I 
+No, I |over|did it.
 I put too much power into it.
 My hands are shaking. I can’t breathe.
 Answer me! Number 0720! Pull yourself together! Are you conscious? Are you okay?!
@@ -740,7 +740,7 @@ Brother?
 Sorry, but... no... I hope you find him though...
 I guess not.
 That’s what I’m saying... Sharing a trait doesn’t make you siblings, right? Dumbass.
-I mean... we are
+I mean... we are |hole| brothers, though...
 I’m not talking to you.
 The “hole buddies” joke doesn’t sit well, and the bald guy gets taken away by Officer Yamagishi.
 He said too much...
