@@ -1,4 +1,4 @@
-# Перевод игры Henpri-RU на русский
+# Перевод игры Henpri на русский
 [![GitHub Releases](https://img.shields.io/github/v/release/cezarrr1/henpri-ru)](https://github.com/cezarrr1/henpri-ru/releases/latest)
 
 # Henpri-RU
